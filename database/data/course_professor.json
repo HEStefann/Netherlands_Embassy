@@ -1,0 +1,482 @@
+[
+    {
+        "course_id": 12,
+        "user_id": 30
+    },
+    {
+        "course_id": 2,
+        "user_id": 15
+    },
+    {
+        "course_id": 33,
+        "user_id": 77
+    },
+    {
+        "course_id": 13,
+        "user_id": 144
+    },
+    {
+        "course_id": 53,
+        "user_id": 188
+    },
+    {
+        "course_id": 35,
+        "user_id": 110
+    },
+    {
+        "course_id": 20,
+        "user_id": 28
+    },
+    {
+        "course_id": 25,
+        "user_id": 10
+    },
+    {
+        "course_id": 11,
+        "user_id": 153
+    },
+    {
+        "course_id": 23,
+        "user_id": 151
+    },
+    {
+        "course_id": 28,
+        "user_id": 145
+    },
+    {
+        "course_id": 5,
+        "user_id": 180
+    },
+    {
+        "course_id": 14,
+        "user_id": 46
+    },
+    {
+        "course_id": 37,
+        "user_id": 180
+    },
+    {
+        "course_id": 8,
+        "user_id": 68
+    },
+    {
+        "course_id": 32,
+        "user_id": 114
+    },
+    {
+        "course_id": 22,
+        "user_id": 109
+    },
+    {
+        "course_id": 23,
+        "user_id": 21
+    },
+    {
+        "course_id": 14,
+        "user_id": 183
+    },
+    {
+        "course_id": 37,
+        "user_id": 179
+    },
+    {
+        "course_id": 6,
+        "user_id": 69
+    },
+    {
+        "course_id": 20,
+        "user_id": 162
+    },
+    {
+        "course_id": 4,
+        "user_id": 202
+    },
+    {
+        "course_id": 53,
+        "user_id": 194
+    },
+    {
+        "course_id": 5,
+        "user_id": 187
+    },
+    {
+        "course_id": 4,
+        "user_id": 18
+    },
+    {
+        "course_id": 33,
+        "user_id": 20
+    },
+    {
+        "course_id": 7,
+        "user_id": 169
+    },
+    {
+        "course_id": 25,
+        "user_id": 23
+    },
+    {
+        "course_id": 22,
+        "user_id": 140
+    },
+    {
+        "course_id": 5,
+        "user_id": 162
+    },
+    {
+        "course_id": 22,
+        "user_id": 127
+    },
+    {
+        "course_id": 44,
+        "user_id": 126
+    },
+    {
+        "course_id": 18,
+        "user_id": 137
+    },
+    {
+        "course_id": 6,
+        "user_id": 32
+    },
+    {
+        "course_id": 35,
+        "user_id": 17
+    },
+    {
+        "course_id": 28,
+        "user_id": 88
+    },
+    {
+        "course_id": 5,
+        "user_id": 93
+    },
+    {
+        "course_id": 8,
+        "user_id": 78
+    },
+    {
+        "course_id": 45,
+        "user_id": 51
+    },
+    {
+        "course_id": 60,
+        "user_id": 41
+    },
+    {
+        "course_id": 11,
+        "user_id": 62
+    },
+    {
+        "course_id": 20,
+        "user_id": 89
+    },
+    {
+        "course_id": 53,
+        "user_id": 145
+    },
+    {
+        "course_id": 24,
+        "user_id": 64
+    },
+    {
+        "course_id": 40,
+        "user_id": 85
+    },
+    {
+        "course_id": 26,
+        "user_id": 113
+    },
+    {
+        "course_id": 53,
+        "user_id": 127
+    },
+    {
+        "course_id": 20,
+        "user_id": 89
+    },
+    {
+        "course_id": 15,
+        "user_id": 185
+    },
+    {
+        "course_id": 27,
+        "user_id": 11
+    },
+    {
+        "course_id": 26,
+        "user_id": 100
+    },
+    {
+        "course_id": 25,
+        "user_id": 33
+    },
+    {
+        "course_id": 48,
+        "user_id": 14
+    },
+    {
+        "course_id": 10,
+        "user_id": 74
+    },
+    {
+        "course_id": 4,
+        "user_id": 193
+    },
+    {
+        "course_id": 13,
+        "user_id": 93
+    },
+    {
+        "course_id": 17,
+        "user_id": 50
+    },
+    {
+        "course_id": 2,
+        "user_id": 115
+    },
+    {
+        "course_id": 38,
+        "user_id": 26
+    },
+    {
+        "course_id": 8,
+        "user_id": 60
+    },
+    {
+        "course_id": 57,
+        "user_id": 175
+    },
+    {
+        "course_id": 59,
+        "user_id": 78
+    },
+    {
+        "course_id": 23,
+        "user_id": 121
+    },
+    {
+        "course_id": 32,
+        "user_id": 86
+    },
+    {
+        "course_id": 43,
+        "user_id": 25
+    },
+    {
+        "course_id": 51,
+        "user_id": 109
+    },
+    {
+        "course_id": 43,
+        "user_id": 202
+    },
+    {
+        "course_id": 15,
+        "user_id": 110
+    },
+    {
+        "course_id": 51,
+        "user_id": 174
+    },
+    {
+        "course_id": 48,
+        "user_id": 102
+    },
+    {
+        "course_id": 33,
+        "user_id": 193
+    },
+    {
+        "course_id": 34,
+        "user_id": 170
+    },
+    {
+        "course_id": 23,
+        "user_id": 151
+    },
+    {
+        "course_id": 17,
+        "user_id": 98
+    },
+    {
+        "course_id": 2,
+        "user_id": 27
+    },
+    {
+        "course_id": 45,
+        "user_id": 19
+    },
+    {
+        "course_id": 13,
+        "user_id": 67
+    },
+    {
+        "course_id": 35,
+        "user_id": 75
+    },
+    {
+        "course_id": 55,
+        "user_id": 205
+    },
+    {
+        "course_id": 38,
+        "user_id": 54
+    },
+    {
+        "course_id": 37,
+        "user_id": 77
+    },
+    {
+        "course_id": 35,
+        "user_id": 135
+    },
+    {
+        "course_id": 58,
+        "user_id": 110
+    },
+    {
+        "course_id": 51,
+        "user_id": 93
+    },
+    {
+        "course_id": 20,
+        "user_id": 92
+    },
+    {
+        "course_id": 42,
+        "user_id": 9
+    },
+    {
+        "course_id": 54,
+        "user_id": 158
+    },
+    {
+        "course_id": 43,
+        "user_id": 152
+    },
+    {
+        "course_id": 48,
+        "user_id": 186
+    },
+    {
+        "course_id": 47,
+        "user_id": 82
+    },
+    {
+        "course_id": 55,
+        "user_id": 127
+    },
+    {
+        "course_id": 25,
+        "user_id": 59
+    },
+    {
+        "course_id": 13,
+        "user_id": 13
+    },
+    {
+        "course_id": 35,
+        "user_id": 168
+    },
+    {
+        "course_id": 14,
+        "user_id": 48
+    },
+    {
+        "course_id": 51,
+        "user_id": 161
+    },
+    {
+        "course_id": 23,
+        "user_id": 27
+    },
+    {
+        "course_id": 42,
+        "user_id": 154
+    },
+    {
+        "course_id": 56,
+        "user_id": 100
+    },
+    {
+        "course_id": 38,
+        "user_id": 98
+    },
+    {
+        "course_id": 37,
+        "user_id": 59
+    },
+    {
+        "course_id": 17,
+        "user_id": 157
+    },
+    {
+        "course_id": 33,
+        "user_id": 103
+    },
+    {
+        "course_id": 10,
+        "user_id": 40
+    },
+    {
+        "course_id": 39,
+        "user_id": 26
+    },
+    {
+        "course_id": 38,
+        "user_id": 133
+    },
+    {
+        "course_id": 56,
+        "user_id": 19
+    },
+    {
+        "course_id": 30,
+        "user_id": 22
+    },
+    {
+        "course_id": 13,
+        "user_id": 25
+    },
+    {
+        "course_id": 1,
+        "user_id": 81
+    },
+    {
+        "course_id": 12,
+        "user_id": 51
+    },
+    {
+        "course_id": 5,
+        "user_id": 84
+    },
+    {
+        "course_id": 35,
+        "user_id": 78
+    },
+    {
+        "course_id": 6,
+        "user_id": 135
+    },
+    {
+        "course_id": 46,
+        "user_id": 7
+    },
+    {
+        "course_id": 17,
+        "user_id": 126
+    },
+    {
+        "course_id": 37,
+        "user_id": 157
+    },
+    {
+        "course_id": 37,
+        "user_id": 123
+    },
+    {
+        "course_id": 24,
+        "user_id": 51
+    }
+]

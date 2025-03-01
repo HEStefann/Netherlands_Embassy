@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "title": "Course 1",
+        "description": "Description of Course 1",
+        "instructor_id": 143,
+        "category_id": 5,
+        "created_at": "2023-10-31T01:12:17"
+    },
+    {
+        "id": 2,
+        "title": "Course 2",
+        "description": "Description of Course 2",
+        "instructor_id": 70,
+        "category_id": 3,
+        "created_at": "2024-11-01T13:36:48"
+    },
+    {
+        "id": 3,
+        "title": "Course 3",
+        "description": "Description of Course 3",
+        "instructor_id": 85,
+        "category_id": 7,
+        "created_at": "2024-09-30T01:57:27"
+    },
+    {
+        "id": 4,
+        "title": "Course 4",
+        "description": "Description of Course 4",
+        "instructor_id": 26,
+        "category_id": 3,
+        "created_at": "2024-08-27T14:11:07"
+    },
+    {
+        "id": 5,
+        "title": "Course 5",
+        "description": "Description of Course 5",
+        "instructor_id": 169,
+        "category_id": 7,
+        "created_at": "2023-09-08T11:56:51"
+    },
+    {
+        "id": 6,
+        "title": "Course 6",
+        "description": "Description of Course 6",
+        "instructor_id": 44,
+        "category_id": 3,
+        "created_at": "2024-05-18T05:32:57"
+    },
+    {
+        "id": 7,
+        "title": "Course 7",
+        "description": "Description of Course 7",
+        "instructor_id": 33,
+        "category_id": 4,
+        "created_at": "2023-09-15T06:29:28"
+    },
+    {
+        "id": 8,
+        "title": "Course 8",
+        "description": "Description of Course 8",
+        "instructor_id": 47,
+        "category_id": 1,
+        "created_at": "2024-06-29T22:35:19"
+    },
+    {
+        "id": 9,
+        "title": "Course 9",
+        "description": "Description of Course 9",
+        "instructor_id": 24,
+        "category_id": 7,
+        "created_at": "2024-07-18T09:37:47"
+    },
+    {
+        "id": 10,
+        "title": "Course 10",
+        "description": "Description of Course 10",
+        "instructor_id": 29,
+        "category_id": 3,
+        "created_at": "2023-01-05T14:24:15"
+    },
+    {
+        "id": 11,
+        "title": "Course 11",
+        "description": "Description of Course 11",
+        "instructor_id": 188,
+        "category_id": 6,
+        "created_at": "2024-09-29T21:02:01"
+    },
+    {
+        "id": 12,
+        "title": "Course 12",
+        "description": "Description of Course 12",
+        "instructor_id": 32,
+        "category_id": 7,
+        "created_at": "2024-08-12T18:37:00"
+    },
+    {
+        "id": 13,
+        "title": "Course 13",
+        "description": "Description of Course 13",
+        "instructor_id": 109,
+        "category_id": 6,
+        "created_at": "2024-05-03T02:58:49"
+    },
+    {
+        "id": 14,
+        "title": "Course 14",
+        "description": "Description of Course 14",
+        "instructor_id": 31,
+        "category_id": 5,
+        "created_at": "2023-06-19T17:03:40"
+    },
+    {
+        "id": 15,
+        "title": "Course 15",
+        "description": "Description of Course 15",
+        "instructor_id": 188,
+        "category_id": 5,
+        "created_at": "2023-01-15T15:13:54"
+    },
+    {
+        "id": 16,
+        "title": "Course 16",
+        "description": "Description of Course 16",
+        "instructor_id": 81,
+        "category_id": 1,
+        "created_at": "2023-05-30T17:34:45"
+    },
+    {
+        "id": 17,
+        "title": "Course 17",
+        "description": "Description of Course 17",
+        "instructor_id": 60,
+        "category_id": 4,
+        "created_at": "2023-06-12T08:44:39"
+    },
+    {
+        "id": 18,
+        "title": "Course 18",
+        "description": "Description of Course 18",
+        "instructor_id": 183,
+        "category_id": 2,
+        "created_at": "2024-07-20T05:59:32"
+    },
+    {
+        "id": 19,
+        "title": "Course 19",
+        "description": "Description of Course 19",
+        "instructor_id": 157,
+        "category_id": 1,
+        "created_at": "2024-02-09T10:02:18"
+    },
+    {
+        "id": 20,
+        "title": "Course 20",
+        "description": "Description of Course 20",
+        "instructor_id": 153,
+        "category_id": 2,
+        "created_at": "2023-03-03T21:31:01"
+    },
+    {
+        "id": 21,
+        "title": "Course 21",
+        "description": "Description of Course 21",
+        "instructor_id": 125,
+        "category_id": 6,
+        "created_at": "2024-04-30T02:21:46"
+    },
+    {
+        "id": 22,
+        "title": "Course 22",
+        "description": "Description of Course 22",
+        "instructor_id": 42,
+        "category_id": 4,
+        "created_at": "2025-01-03T19:47:17"
+    },
+    {
+        "id": 23,
+        "title": "Course 23",
+        "description": "Description of Course 23",
+        "instructor_id": 193,
+        "category_id": 6,
+        "created_at": "2024-06-15T00:49:58"
+    },
+    {
+        "id": 24,
+        "title": "Course 24",
+        "description": "Description of Course 24",
+        "instructor_id": 198,
+        "category_id": 4,
+        "created_at": "2024-04-25T02:37:26"
+    },
+    {
+        "id": 25,
+        "title": "Course 25",
+        "description": "Description of Course 25",
+        "instructor_id": 21,
+        "category_id": 1,
+        "created_at": "2023-07-15T03:11:55"
+    },
+    {
+        "id": 26,
+        "title": "Course 26",
+        "description": "Description of Course 26",
+        "instructor_id": 56,
+        "category_id": 5,
+        "created_at": "2024-12-13T09:34:49"
+    },
+    {
+        "id": 27,
+        "title": "Course 27",
+        "description": "Description of Course 27",
+        "instructor_id": 29,
+        "category_id": 8,
+        "created_at": "2024-06-19T22:31:54"
+    },
+    {
+        "id": 28,
+        "title": "Course 28",
+        "description": "Description of Course 28",
+        "instructor_id": 15,
+        "category_id": 8,
+        "created_at": "2023-11-19T10:43:40"
+    },
+    {
+        "id": 29,
+        "title": "Course 29",
+        "description": "Description of Course 29",
+        "instructor_id": 55,
+        "category_id": 1,
+        "created_at": "2024-11-27T08:46:31"
+    },
+    {
+        "id": 30,
+        "title": "Course 30",
+        "description": "Description of Course 30",
+        "instructor_id": 100,
+        "category_id": 5,
+        "created_at": "2024-06-16T07:36:40"
+    },
+    {
+        "id": 31,
+        "title": "Course 31",
+        "description": "Description of Course 31",
+        "instructor_id": 6,
+        "category_id": 3,
+        "created_at": "2024-09-04T17:50:18"
+    },
+    {
+        "id": 32,
+        "title": "Course 32",
+        "description": "Description of Course 32",
+        "instructor_id": 34,
+        "category_id": 8,
+        "created_at": "2024-04-11T12:54:46"
+    },
+    {
+        "id": 33,
+        "title": "Course 33",
+        "description": "Description of Course 33",
+        "instructor_id": 189,
+        "category_id": 2,
+        "created_at": "2023-11-20T06:07:33"
+    },
+    {
+        "id": 34,
+        "title": "Course 34",
+        "description": "Description of Course 34",
+        "instructor_id": 183,
+        "category_id": 3,
+        "created_at": "2024-06-27T23:09:54"
+    },
+    {
+        "id": 35,
+        "title": "Course 35",
+        "description": "Description of Course 35",
+        "instructor_id": 31,
+        "category_id": 2,
+        "created_at": "2023-10-23T17:21:49"
+    },
+    {
+        "id": 36,
+        "title": "Course 36",
+        "description": "Description of Course 36",
+        "instructor_id": 119,
+        "category_id": 4,
+        "created_at": "2024-12-13T16:49:35"
+    },
+    {
+        "id": 37,
+        "title": "Course 37",
+        "description": "Description of Course 37",
+        "instructor_id": 101,
+        "category_id": 7,
+        "created_at": "2024-04-05T11:35:45"
+    },
+    {
+        "id": 38,
+        "title": "Course 38",
+        "description": "Description of Course 38",
+        "instructor_id": 60,
+        "category_id": 2,
+        "created_at": "2023-12-13T03:42:20"
+    },
+    {
+        "id": 39,
+        "title": "Course 39",
+        "description": "Description of Course 39",
+        "instructor_id": 74,
+        "category_id": 6,
+        "created_at": "2023-05-23T19:42:41"
+    },
+    {
+        "id": 40,
+        "title": "Course 40",
+        "description": "Description of Course 40",
+        "instructor_id": 111,
+        "category_id": 3,
+        "created_at": "2024-12-26T16:31:17"
+    },
+    {
+        "id": 41,
+        "title": "Course 41",
+        "description": "Description of Course 41",
+        "instructor_id": 158,
+        "category_id": 3,
+        "created_at": "2023-01-12T22:35:35"
+    },
+    {
+        "id": 42,
+        "title": "Course 42",
+        "description": "Description of Course 42",
+        "instructor_id": 41,
+        "category_id": 3,
+        "created_at": "2024-06-17T09:18:21"
+    },
+    {
+        "id": 43,
+        "title": "Course 43",
+        "description": "Description of Course 43",
+        "instructor_id": 114,
+        "category_id": 6,
+        "created_at": "2023-07-10T18:25:40"
+    },
+    {
+        "id": 44,
+        "title": "Course 44",
+        "description": "Description of Course 44",
+        "instructor_id": 42,
+        "category_id": 7,
+        "created_at": "2024-11-16T04:53:13"
+    },
+    {
+        "id": 45,
+        "title": "Course 45",
+        "description": "Description of Course 45",
+        "instructor_id": 172,
+        "category_id": 8,
+        "created_at": "2024-11-21T14:01:02"
+    },
+    {
+        "id": 46,
+        "title": "Course 46",
+        "description": "Description of Course 46",
+        "instructor_id": 198,
+        "category_id": 8,
+        "created_at": "2023-05-04T21:57:11"
+    },
+    {
+        "id": 47,
+        "title": "Course 47",
+        "description": "Description of Course 47",
+        "instructor_id": 72,
+        "category_id": 1,
+        "created_at": "2024-02-04T21:45:03"
+    },
+    {
+        "id": 48,
+        "title": "Course 48",
+        "description": "Description of Course 48",
+        "instructor_id": 131,
+        "category_id": 8,
+        "created_at": "2024-11-09T01:17:33"
+    },
+    {
+        "id": 49,
+        "title": "Course 49",
+        "description": "Description of Course 49",
+        "instructor_id": 108,
+        "category_id": 1,
+        "created_at": "2024-06-26T07:04:38"
+    },
+    {
+        "id": 50,
+        "title": "Course 50",
+        "description": "Description of Course 50",
+        "instructor_id": 117,
+        "category_id": 1,
+        "created_at": "2024-01-07T19:27:29"
+    },
+    {
+        "id": 51,
+        "title": "Course 51",
+        "description": "Description of Course 51",
+        "instructor_id": 65,
+        "category_id": 8,
+        "created_at": "2024-03-01T03:29:28"
+    },
+    {
+        "id": 52,
+        "title": "Course 52",
+        "description": "Description of Course 52",
+        "instructor_id": 66,
+        "category_id": 7,
+        "created_at": "2024-06-28T14:44:42"
+    },
+    {
+        "id": 53,
+        "title": "Course 53",
+        "description": "Description of Course 53",
+        "instructor_id": 193,
+        "category_id": 2,
+        "created_at": "2023-05-07T18:51:32"
+    },
+    {
+        "id": 54,
+        "title": "Course 54",
+        "description": "Description of Course 54",
+        "instructor_id": 137,
+        "category_id": 2,
+        "created_at": "2024-11-27T20:22:06"
+    },
+    {
+        "id": 55,
+        "title": "Course 55",
+        "description": "Description of Course 55",
+        "instructor_id": 58,
+        "category_id": 6,
+        "created_at": "2023-09-22T09:28:36"
+    },
+    {
+        "id": 56,
+        "title": "Course 56",
+        "description": "Description of Course 56",
+        "instructor_id": 102,
+        "category_id": 5,
+        "created_at": "2024-02-06T03:20:49"
+    },
+    {
+        "id": 57,
+        "title": "Course 57",
+        "description": "Description of Course 57",
+        "instructor_id": 107,
+        "category_id": 1,
+        "created_at": "2023-10-19T01:17:04"
+    },
+    {
+        "id": 58,
+        "title": "Course 58",
+        "description": "Description of Course 58",
+        "instructor_id": 173,
+        "category_id": 5,
+        "created_at": "2024-01-25T03:45:23"
+    },
+    {
+        "id": 59,
+        "title": "Course 59",
+        "description": "Description of Course 59",
+        "instructor_id": 85,
+        "category_id": 4,
+        "created_at": "2024-12-07T10:24:03"
+    },
+    {
+        "id": 60,
+        "title": "Course 60",
+        "description": "Description of Course 60",
+        "instructor_id": 49,
+        "category_id": 1,
+        "created_at": "2023-11-07T01:52:22"
+    }
+]

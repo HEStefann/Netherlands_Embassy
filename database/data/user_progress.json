@@ -1,0 +1,6002 @@
+[
+    {
+        "user_id": 1966,
+        "lesson_id": 978,
+        "completed": true,
+        "progress_percentage": 6
+    },
+    {
+        "user_id": 2342,
+        "lesson_id": 9,
+        "completed": true,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 620,
+        "lesson_id": 515,
+        "completed": false,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 2623,
+        "lesson_id": 73,
+        "completed": true,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 1562,
+        "lesson_id": 939,
+        "completed": true,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 889,
+        "lesson_id": 797,
+        "completed": true,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 542,
+        "lesson_id": 286,
+        "completed": false,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 697,
+        "lesson_id": 594,
+        "completed": true,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 1154,
+        "lesson_id": 231,
+        "completed": true,
+        "progress_percentage": 54
+    },
+    {
+        "user_id": 2262,
+        "lesson_id": 206,
+        "completed": false,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 116,
+        "lesson_id": 977,
+        "completed": true,
+        "progress_percentage": 45
+    },
+    {
+        "user_id": 1434,
+        "lesson_id": 54,
+        "completed": true,
+        "progress_percentage": 26
+    },
+    {
+        "user_id": 1857,
+        "lesson_id": 198,
+        "completed": true,
+        "progress_percentage": 24
+    },
+    {
+        "user_id": 1258,
+        "lesson_id": 593,
+        "completed": false,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 1906,
+        "lesson_id": 502,
+        "completed": true,
+        "progress_percentage": 47
+    },
+    {
+        "user_id": 754,
+        "lesson_id": 686,
+        "completed": false,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 2892,
+        "lesson_id": 546,
+        "completed": true,
+        "progress_percentage": 35
+    },
+    {
+        "user_id": 2039,
+        "lesson_id": 855,
+        "completed": false,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 2278,
+        "lesson_id": 661,
+        "completed": false,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 1964,
+        "lesson_id": 752,
+        "completed": true,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 2646,
+        "lesson_id": 587,
+        "completed": true,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 123,
+        "lesson_id": 536,
+        "completed": true,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 312,
+        "lesson_id": 839,
+        "completed": false,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 1829,
+        "lesson_id": 766,
+        "completed": true,
+        "progress_percentage": 57
+    },
+    {
+        "user_id": 1316,
+        "lesson_id": 573,
+        "completed": true,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 2082,
+        "lesson_id": 310,
+        "completed": false,
+        "progress_percentage": 21
+    },
+    {
+        "user_id": 1893,
+        "lesson_id": 198,
+        "completed": true,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 2718,
+        "lesson_id": 424,
+        "completed": false,
+        "progress_percentage": 67
+    },
+    {
+        "user_id": 2558,
+        "lesson_id": 983,
+        "completed": true,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 1507,
+        "lesson_id": 56,
+        "completed": false,
+        "progress_percentage": 67
+    },
+    {
+        "user_id": 62,
+        "lesson_id": 816,
+        "completed": false,
+        "progress_percentage": 20
+    },
+    {
+        "user_id": 1166,
+        "lesson_id": 717,
+        "completed": true,
+        "progress_percentage": 50
+    },
+    {
+        "user_id": 1922,
+        "lesson_id": 938,
+        "completed": false,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 1953,
+        "lesson_id": 528,
+        "completed": true,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 369,
+        "lesson_id": 321,
+        "completed": false,
+        "progress_percentage": 17
+    },
+    {
+        "user_id": 253,
+        "lesson_id": 993,
+        "completed": true,
+        "progress_percentage": 43
+    },
+    {
+        "user_id": 1741,
+        "lesson_id": 846,
+        "completed": true,
+        "progress_percentage": 32
+    },
+    {
+        "user_id": 2320,
+        "lesson_id": 948,
+        "completed": false,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 110,
+        "lesson_id": 399,
+        "completed": false,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 1619,
+        "lesson_id": 430,
+        "completed": false,
+        "progress_percentage": 88
+    },
+    {
+        "user_id": 1263,
+        "lesson_id": 627,
+        "completed": true,
+        "progress_percentage": 33
+    },
+    {
+        "user_id": 1594,
+        "lesson_id": 951,
+        "completed": false,
+        "progress_percentage": 8
+    },
+    {
+        "user_id": 2478,
+        "lesson_id": 107,
+        "completed": true,
+        "progress_percentage": 67
+    },
+    {
+        "user_id": 209,
+        "lesson_id": 641,
+        "completed": true,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 504,
+        "lesson_id": 520,
+        "completed": true,
+        "progress_percentage": 17
+    },
+    {
+        "user_id": 625,
+        "lesson_id": 437,
+        "completed": false,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 254,
+        "lesson_id": 63,
+        "completed": false,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 830,
+        "lesson_id": 821,
+        "completed": true,
+        "progress_percentage": 72
+    },
+    {
+        "user_id": 2238,
+        "lesson_id": 125,
+        "completed": true,
+        "progress_percentage": 82
+    },
+    {
+        "user_id": 1529,
+        "lesson_id": 913,
+        "completed": true,
+        "progress_percentage": 81
+    },
+    {
+        "user_id": 2585,
+        "lesson_id": 188,
+        "completed": false,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 2520,
+        "lesson_id": 286,
+        "completed": true,
+        "progress_percentage": 79
+    },
+    {
+        "user_id": 2620,
+        "lesson_id": 939,
+        "completed": false,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 1423,
+        "lesson_id": 576,
+        "completed": true,
+        "progress_percentage": 45
+    },
+    {
+        "user_id": 1829,
+        "lesson_id": 665,
+        "completed": false,
+        "progress_percentage": 2
+    },
+    {
+        "user_id": 2456,
+        "lesson_id": 998,
+        "completed": true,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 712,
+        "lesson_id": 969,
+        "completed": true,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 2323,
+        "lesson_id": 936,
+        "completed": true,
+        "progress_percentage": 15
+    },
+    {
+        "user_id": 2135,
+        "lesson_id": 76,
+        "completed": false,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 910,
+        "lesson_id": 675,
+        "completed": true,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 2830,
+        "lesson_id": 469,
+        "completed": false,
+        "progress_percentage": 10
+    },
+    {
+        "user_id": 2434,
+        "lesson_id": 196,
+        "completed": false,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 2210,
+        "lesson_id": 492,
+        "completed": true,
+        "progress_percentage": 62
+    },
+    {
+        "user_id": 1469,
+        "lesson_id": 913,
+        "completed": true,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 2241,
+        "lesson_id": 802,
+        "completed": true,
+        "progress_percentage": 33
+    },
+    {
+        "user_id": 219,
+        "lesson_id": 444,
+        "completed": false,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 2975,
+        "lesson_id": 32,
+        "completed": true,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 60,
+        "lesson_id": 762,
+        "completed": false,
+        "progress_percentage": 20
+    },
+    {
+        "user_id": 2887,
+        "lesson_id": 677,
+        "completed": false,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 1808,
+        "lesson_id": 422,
+        "completed": true,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 497,
+        "lesson_id": 9,
+        "completed": true,
+        "progress_percentage": 2
+    },
+    {
+        "user_id": 1426,
+        "lesson_id": 378,
+        "completed": false,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 1967,
+        "lesson_id": 41,
+        "completed": true,
+        "progress_percentage": 43
+    },
+    {
+        "user_id": 1427,
+        "lesson_id": 394,
+        "completed": true,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 2124,
+        "lesson_id": 305,
+        "completed": false,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 994,
+        "lesson_id": 582,
+        "completed": false,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 1680,
+        "lesson_id": 398,
+        "completed": false,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 1229,
+        "lesson_id": 842,
+        "completed": true,
+        "progress_percentage": 26
+    },
+    {
+        "user_id": 2928,
+        "lesson_id": 764,
+        "completed": false,
+        "progress_percentage": 30
+    },
+    {
+        "user_id": 1475,
+        "lesson_id": 894,
+        "completed": true,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 1334,
+        "lesson_id": 121,
+        "completed": true,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 2528,
+        "lesson_id": 519,
+        "completed": false,
+        "progress_percentage": 93
+    },
+    {
+        "user_id": 198,
+        "lesson_id": 564,
+        "completed": false,
+        "progress_percentage": 17
+    },
+    {
+        "user_id": 353,
+        "lesson_id": 416,
+        "completed": true,
+        "progress_percentage": 85
+    },
+    {
+        "user_id": 1088,
+        "lesson_id": 511,
+        "completed": false,
+        "progress_percentage": 37
+    },
+    {
+        "user_id": 505,
+        "lesson_id": 819,
+        "completed": false,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 953,
+        "lesson_id": 613,
+        "completed": true,
+        "progress_percentage": 9
+    },
+    {
+        "user_id": 2892,
+        "lesson_id": 715,
+        "completed": false,
+        "progress_percentage": 54
+    },
+    {
+        "user_id": 1354,
+        "lesson_id": 626,
+        "completed": true,
+        "progress_percentage": 57
+    },
+    {
+        "user_id": 1922,
+        "lesson_id": 81,
+        "completed": true,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 1536,
+        "lesson_id": 519,
+        "completed": false,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 1000,
+        "lesson_id": 104,
+        "completed": false,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 103,
+        "lesson_id": 677,
+        "completed": false,
+        "progress_percentage": 78
+    },
+    {
+        "user_id": 1277,
+        "lesson_id": 16,
+        "completed": false,
+        "progress_percentage": 88
+    },
+    {
+        "user_id": 2786,
+        "lesson_id": 754,
+        "completed": true,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 907,
+        "lesson_id": 807,
+        "completed": true,
+        "progress_percentage": 81
+    },
+    {
+        "user_id": 2604,
+        "lesson_id": 38,
+        "completed": false,
+        "progress_percentage": 48
+    },
+    {
+        "user_id": 1458,
+        "lesson_id": 537,
+        "completed": false,
+        "progress_percentage": 40
+    },
+    {
+        "user_id": 2688,
+        "lesson_id": 969,
+        "completed": false,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 910,
+        "lesson_id": 191,
+        "completed": false,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 1869,
+        "lesson_id": 471,
+        "completed": false,
+        "progress_percentage": 35
+    },
+    {
+        "user_id": 1250,
+        "lesson_id": 634,
+        "completed": true,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 2372,
+        "lesson_id": 9,
+        "completed": true,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 1311,
+        "lesson_id": 834,
+        "completed": false,
+        "progress_percentage": 14
+    },
+    {
+        "user_id": 59,
+        "lesson_id": 44,
+        "completed": true,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 380,
+        "lesson_id": 92,
+        "completed": false,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 1257,
+        "lesson_id": 668,
+        "completed": false,
+        "progress_percentage": 37
+    },
+    {
+        "user_id": 1729,
+        "lesson_id": 750,
+        "completed": true,
+        "progress_percentage": 50
+    },
+    {
+        "user_id": 795,
+        "lesson_id": 210,
+        "completed": false,
+        "progress_percentage": 88
+    },
+    {
+        "user_id": 1405,
+        "lesson_id": 196,
+        "completed": true,
+        "progress_percentage": 57
+    },
+    {
+        "user_id": 1565,
+        "lesson_id": 808,
+        "completed": false,
+        "progress_percentage": 68
+    },
+    {
+        "user_id": 1808,
+        "lesson_id": 512,
+        "completed": false,
+        "progress_percentage": 30
+    },
+    {
+        "user_id": 1135,
+        "lesson_id": 166,
+        "completed": false,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 78,
+        "lesson_id": 508,
+        "completed": true,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 2940,
+        "lesson_id": 435,
+        "completed": true,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 2159,
+        "lesson_id": 519,
+        "completed": true,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 2432,
+        "lesson_id": 84,
+        "completed": false,
+        "progress_percentage": 0
+    },
+    {
+        "user_id": 2775,
+        "lesson_id": 138,
+        "completed": false,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 516,
+        "lesson_id": 744,
+        "completed": false,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 1968,
+        "lesson_id": 421,
+        "completed": false,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 2835,
+        "lesson_id": 361,
+        "completed": true,
+        "progress_percentage": 68
+    },
+    {
+        "user_id": 1765,
+        "lesson_id": 15,
+        "completed": false,
+        "progress_percentage": 27
+    },
+    {
+        "user_id": 2131,
+        "lesson_id": 988,
+        "completed": true,
+        "progress_percentage": 23
+    },
+    {
+        "user_id": 251,
+        "lesson_id": 820,
+        "completed": false,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 982,
+        "lesson_id": 969,
+        "completed": true,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 2201,
+        "lesson_id": 815,
+        "completed": false,
+        "progress_percentage": 72
+    },
+    {
+        "user_id": 1447,
+        "lesson_id": 762,
+        "completed": false,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 2619,
+        "lesson_id": 68,
+        "completed": true,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 1089,
+        "lesson_id": 936,
+        "completed": true,
+        "progress_percentage": 95
+    },
+    {
+        "user_id": 1431,
+        "lesson_id": 404,
+        "completed": false,
+        "progress_percentage": 21
+    },
+    {
+        "user_id": 1340,
+        "lesson_id": 983,
+        "completed": false,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 1959,
+        "lesson_id": 994,
+        "completed": true,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 2517,
+        "lesson_id": 560,
+        "completed": false,
+        "progress_percentage": 32
+    },
+    {
+        "user_id": 2440,
+        "lesson_id": 119,
+        "completed": true,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 2210,
+        "lesson_id": 422,
+        "completed": true,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 1806,
+        "lesson_id": 46,
+        "completed": false,
+        "progress_percentage": 66
+    },
+    {
+        "user_id": 35,
+        "lesson_id": 873,
+        "completed": true,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 1473,
+        "lesson_id": 500,
+        "completed": false,
+        "progress_percentage": 88
+    },
+    {
+        "user_id": 2086,
+        "lesson_id": 35,
+        "completed": true,
+        "progress_percentage": 25
+    },
+    {
+        "user_id": 2797,
+        "lesson_id": 23,
+        "completed": true,
+        "progress_percentage": 35
+    },
+    {
+        "user_id": 2069,
+        "lesson_id": 945,
+        "completed": false,
+        "progress_percentage": 24
+    },
+    {
+        "user_id": 2398,
+        "lesson_id": 63,
+        "completed": false,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 591,
+        "lesson_id": 118,
+        "completed": true,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 1485,
+        "lesson_id": 854,
+        "completed": true,
+        "progress_percentage": 19
+    },
+    {
+        "user_id": 2518,
+        "lesson_id": 449,
+        "completed": true,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 682,
+        "lesson_id": 912,
+        "completed": false,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 2632,
+        "lesson_id": 883,
+        "completed": false,
+        "progress_percentage": 85
+    },
+    {
+        "user_id": 2585,
+        "lesson_id": 62,
+        "completed": true,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 389,
+        "lesson_id": 491,
+        "completed": true,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 1219,
+        "lesson_id": 432,
+        "completed": false,
+        "progress_percentage": 2
+    },
+    {
+        "user_id": 2037,
+        "lesson_id": 632,
+        "completed": true,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 822,
+        "lesson_id": 153,
+        "completed": true,
+        "progress_percentage": 9
+    },
+    {
+        "user_id": 1311,
+        "lesson_id": 96,
+        "completed": true,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 157,
+        "lesson_id": 703,
+        "completed": true,
+        "progress_percentage": 81
+    },
+    {
+        "user_id": 81,
+        "lesson_id": 221,
+        "completed": true,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 2376,
+        "lesson_id": 271,
+        "completed": true,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 2331,
+        "lesson_id": 768,
+        "completed": false,
+        "progress_percentage": 20
+    },
+    {
+        "user_id": 2167,
+        "lesson_id": 709,
+        "completed": true,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 324,
+        "lesson_id": 114,
+        "completed": false,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 2686,
+        "lesson_id": 667,
+        "completed": false,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 1204,
+        "lesson_id": 465,
+        "completed": true,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 1463,
+        "lesson_id": 541,
+        "completed": true,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 1914,
+        "lesson_id": 840,
+        "completed": false,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 1186,
+        "lesson_id": 99,
+        "completed": true,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 1670,
+        "lesson_id": 552,
+        "completed": true,
+        "progress_percentage": 40
+    },
+    {
+        "user_id": 10,
+        "lesson_id": 56,
+        "completed": false,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 2685,
+        "lesson_id": 257,
+        "completed": true,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 2956,
+        "lesson_id": 302,
+        "completed": false,
+        "progress_percentage": 72
+    },
+    {
+        "user_id": 2802,
+        "lesson_id": 450,
+        "completed": true,
+        "progress_percentage": 0
+    },
+    {
+        "user_id": 2704,
+        "lesson_id": 693,
+        "completed": false,
+        "progress_percentage": 47
+    },
+    {
+        "user_id": 662,
+        "lesson_id": 449,
+        "completed": true,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 732,
+        "lesson_id": 443,
+        "completed": false,
+        "progress_percentage": 92
+    },
+    {
+        "user_id": 2906,
+        "lesson_id": 569,
+        "completed": false,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 2017,
+        "lesson_id": 987,
+        "completed": true,
+        "progress_percentage": 40
+    },
+    {
+        "user_id": 2368,
+        "lesson_id": 544,
+        "completed": false,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 1914,
+        "lesson_id": 571,
+        "completed": true,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 1295,
+        "lesson_id": 521,
+        "completed": false,
+        "progress_percentage": 95
+    },
+    {
+        "user_id": 1199,
+        "lesson_id": 159,
+        "completed": false,
+        "progress_percentage": 38
+    },
+    {
+        "user_id": 2888,
+        "lesson_id": 822,
+        "completed": true,
+        "progress_percentage": 85
+    },
+    {
+        "user_id": 1599,
+        "lesson_id": 327,
+        "completed": false,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 910,
+        "lesson_id": 27,
+        "completed": true,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 1490,
+        "lesson_id": 4,
+        "completed": true,
+        "progress_percentage": 48
+    },
+    {
+        "user_id": 702,
+        "lesson_id": 637,
+        "completed": false,
+        "progress_percentage": 8
+    },
+    {
+        "user_id": 2964,
+        "lesson_id": 541,
+        "completed": false,
+        "progress_percentage": 94
+    },
+    {
+        "user_id": 1851,
+        "lesson_id": 235,
+        "completed": false,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 1026,
+        "lesson_id": 284,
+        "completed": true,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 2958,
+        "lesson_id": 337,
+        "completed": false,
+        "progress_percentage": 8
+    },
+    {
+        "user_id": 2559,
+        "lesson_id": 645,
+        "completed": false,
+        "progress_percentage": 19
+    },
+    {
+        "user_id": 2539,
+        "lesson_id": 444,
+        "completed": true,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 2357,
+        "lesson_id": 562,
+        "completed": true,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 436,
+        "lesson_id": 279,
+        "completed": true,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 2830,
+        "lesson_id": 505,
+        "completed": false,
+        "progress_percentage": 95
+    },
+    {
+        "user_id": 536,
+        "lesson_id": 191,
+        "completed": true,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 1428,
+        "lesson_id": 618,
+        "completed": true,
+        "progress_percentage": 26
+    },
+    {
+        "user_id": 1246,
+        "lesson_id": 509,
+        "completed": false,
+        "progress_percentage": 1
+    },
+    {
+        "user_id": 2941,
+        "lesson_id": 101,
+        "completed": false,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 859,
+        "lesson_id": 626,
+        "completed": false,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 1794,
+        "lesson_id": 765,
+        "completed": true,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 2338,
+        "lesson_id": 13,
+        "completed": false,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 905,
+        "lesson_id": 22,
+        "completed": true,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 1401,
+        "lesson_id": 875,
+        "completed": false,
+        "progress_percentage": 33
+    },
+    {
+        "user_id": 1422,
+        "lesson_id": 510,
+        "completed": true,
+        "progress_percentage": 17
+    },
+    {
+        "user_id": 1329,
+        "lesson_id": 935,
+        "completed": false,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 2498,
+        "lesson_id": 20,
+        "completed": true,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 2035,
+        "lesson_id": 243,
+        "completed": false,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 151,
+        "lesson_id": 345,
+        "completed": false,
+        "progress_percentage": 34
+    },
+    {
+        "user_id": 2267,
+        "lesson_id": 26,
+        "completed": true,
+        "progress_percentage": 86
+    },
+    {
+        "user_id": 865,
+        "lesson_id": 970,
+        "completed": false,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 2256,
+        "lesson_id": 947,
+        "completed": false,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 422,
+        "lesson_id": 551,
+        "completed": true,
+        "progress_percentage": 76
+    },
+    {
+        "user_id": 1411,
+        "lesson_id": 740,
+        "completed": false,
+        "progress_percentage": 32
+    },
+    {
+        "user_id": 1956,
+        "lesson_id": 736,
+        "completed": false,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 2649,
+        "lesson_id": 578,
+        "completed": false,
+        "progress_percentage": 0
+    },
+    {
+        "user_id": 1681,
+        "lesson_id": 226,
+        "completed": true,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 1391,
+        "lesson_id": 501,
+        "completed": true,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 2421,
+        "lesson_id": 199,
+        "completed": false,
+        "progress_percentage": 34
+    },
+    {
+        "user_id": 2803,
+        "lesson_id": 527,
+        "completed": true,
+        "progress_percentage": 88
+    },
+    {
+        "user_id": 2912,
+        "lesson_id": 450,
+        "completed": true,
+        "progress_percentage": 84
+    },
+    {
+        "user_id": 1052,
+        "lesson_id": 325,
+        "completed": false,
+        "progress_percentage": 35
+    },
+    {
+        "user_id": 2283,
+        "lesson_id": 750,
+        "completed": true,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 374,
+        "lesson_id": 571,
+        "completed": true,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 2379,
+        "lesson_id": 944,
+        "completed": true,
+        "progress_percentage": 95
+    },
+    {
+        "user_id": 291,
+        "lesson_id": 108,
+        "completed": false,
+        "progress_percentage": 87
+    },
+    {
+        "user_id": 2685,
+        "lesson_id": 194,
+        "completed": false,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 1402,
+        "lesson_id": 367,
+        "completed": false,
+        "progress_percentage": 26
+    },
+    {
+        "user_id": 2105,
+        "lesson_id": 542,
+        "completed": false,
+        "progress_percentage": 66
+    },
+    {
+        "user_id": 332,
+        "lesson_id": 296,
+        "completed": true,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 2991,
+        "lesson_id": 953,
+        "completed": false,
+        "progress_percentage": 85
+    },
+    {
+        "user_id": 2342,
+        "lesson_id": 92,
+        "completed": true,
+        "progress_percentage": 48
+    },
+    {
+        "user_id": 2619,
+        "lesson_id": 136,
+        "completed": true,
+        "progress_percentage": 54
+    },
+    {
+        "user_id": 2917,
+        "lesson_id": 581,
+        "completed": true,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 2407,
+        "lesson_id": 301,
+        "completed": false,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 194,
+        "lesson_id": 263,
+        "completed": true,
+        "progress_percentage": 30
+    },
+    {
+        "user_id": 1003,
+        "lesson_id": 388,
+        "completed": true,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 2944,
+        "lesson_id": 9,
+        "completed": false,
+        "progress_percentage": 15
+    },
+    {
+        "user_id": 2580,
+        "lesson_id": 469,
+        "completed": true,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 952,
+        "lesson_id": 204,
+        "completed": false,
+        "progress_percentage": 24
+    },
+    {
+        "user_id": 980,
+        "lesson_id": 633,
+        "completed": true,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 44,
+        "lesson_id": 737,
+        "completed": false,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 2197,
+        "lesson_id": 358,
+        "completed": false,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 1505,
+        "lesson_id": 786,
+        "completed": false,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 2115,
+        "lesson_id": 533,
+        "completed": false,
+        "progress_percentage": 50
+    },
+    {
+        "user_id": 1807,
+        "lesson_id": 668,
+        "completed": false,
+        "progress_percentage": 35
+    },
+    {
+        "user_id": 1294,
+        "lesson_id": 389,
+        "completed": true,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 646,
+        "lesson_id": 447,
+        "completed": false,
+        "progress_percentage": 4
+    },
+    {
+        "user_id": 1171,
+        "lesson_id": 407,
+        "completed": true,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 1714,
+        "lesson_id": 524,
+        "completed": false,
+        "progress_percentage": 9
+    },
+    {
+        "user_id": 155,
+        "lesson_id": 629,
+        "completed": false,
+        "progress_percentage": 73
+    },
+    {
+        "user_id": 1646,
+        "lesson_id": 724,
+        "completed": true,
+        "progress_percentage": 57
+    },
+    {
+        "user_id": 262,
+        "lesson_id": 752,
+        "completed": false,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 301,
+        "lesson_id": 901,
+        "completed": false,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 2069,
+        "lesson_id": 298,
+        "completed": false,
+        "progress_percentage": 45
+    },
+    {
+        "user_id": 2334,
+        "lesson_id": 976,
+        "completed": false,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 143,
+        "lesson_id": 611,
+        "completed": true,
+        "progress_percentage": 15
+    },
+    {
+        "user_id": 828,
+        "lesson_id": 3,
+        "completed": false,
+        "progress_percentage": 85
+    },
+    {
+        "user_id": 1433,
+        "lesson_id": 756,
+        "completed": true,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 2116,
+        "lesson_id": 7,
+        "completed": false,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 2946,
+        "lesson_id": 600,
+        "completed": true,
+        "progress_percentage": 19
+    },
+    {
+        "user_id": 970,
+        "lesson_id": 388,
+        "completed": true,
+        "progress_percentage": 35
+    },
+    {
+        "user_id": 322,
+        "lesson_id": 80,
+        "completed": false,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 29,
+        "lesson_id": 15,
+        "completed": true,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 2210,
+        "lesson_id": 130,
+        "completed": true,
+        "progress_percentage": 23
+    },
+    {
+        "user_id": 2029,
+        "lesson_id": 375,
+        "completed": false,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 1957,
+        "lesson_id": 271,
+        "completed": false,
+        "progress_percentage": 87
+    },
+    {
+        "user_id": 2567,
+        "lesson_id": 849,
+        "completed": false,
+        "progress_percentage": 82
+    },
+    {
+        "user_id": 2695,
+        "lesson_id": 348,
+        "completed": true,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 1513,
+        "lesson_id": 412,
+        "completed": false,
+        "progress_percentage": 84
+    },
+    {
+        "user_id": 1092,
+        "lesson_id": 573,
+        "completed": true,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 2146,
+        "lesson_id": 461,
+        "completed": false,
+        "progress_percentage": 27
+    },
+    {
+        "user_id": 2837,
+        "lesson_id": 870,
+        "completed": false,
+        "progress_percentage": 85
+    },
+    {
+        "user_id": 307,
+        "lesson_id": 751,
+        "completed": false,
+        "progress_percentage": 6
+    },
+    {
+        "user_id": 2512,
+        "lesson_id": 335,
+        "completed": true,
+        "progress_percentage": 80
+    },
+    {
+        "user_id": 2564,
+        "lesson_id": 747,
+        "completed": true,
+        "progress_percentage": 15
+    },
+    {
+        "user_id": 2941,
+        "lesson_id": 72,
+        "completed": true,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 1408,
+        "lesson_id": 390,
+        "completed": true,
+        "progress_percentage": 95
+    },
+    {
+        "user_id": 2347,
+        "lesson_id": 489,
+        "completed": true,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 1014,
+        "lesson_id": 129,
+        "completed": false,
+        "progress_percentage": 10
+    },
+    {
+        "user_id": 189,
+        "lesson_id": 326,
+        "completed": true,
+        "progress_percentage": 82
+    },
+    {
+        "user_id": 2369,
+        "lesson_id": 13,
+        "completed": false,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 1968,
+        "lesson_id": 253,
+        "completed": true,
+        "progress_percentage": 56
+    },
+    {
+        "user_id": 928,
+        "lesson_id": 728,
+        "completed": true,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 1691,
+        "lesson_id": 727,
+        "completed": false,
+        "progress_percentage": 4
+    },
+    {
+        "user_id": 816,
+        "lesson_id": 735,
+        "completed": false,
+        "progress_percentage": 15
+    },
+    {
+        "user_id": 802,
+        "lesson_id": 334,
+        "completed": false,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 864,
+        "lesson_id": 943,
+        "completed": false,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 2327,
+        "lesson_id": 365,
+        "completed": false,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 617,
+        "lesson_id": 45,
+        "completed": false,
+        "progress_percentage": 80
+    },
+    {
+        "user_id": 1563,
+        "lesson_id": 422,
+        "completed": false,
+        "progress_percentage": 50
+    },
+    {
+        "user_id": 522,
+        "lesson_id": 633,
+        "completed": false,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 625,
+        "lesson_id": 600,
+        "completed": true,
+        "progress_percentage": 84
+    },
+    {
+        "user_id": 886,
+        "lesson_id": 53,
+        "completed": false,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 2234,
+        "lesson_id": 417,
+        "completed": false,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 1355,
+        "lesson_id": 238,
+        "completed": false,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 1525,
+        "lesson_id": 671,
+        "completed": true,
+        "progress_percentage": 27
+    },
+    {
+        "user_id": 217,
+        "lesson_id": 382,
+        "completed": false,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 1915,
+        "lesson_id": 287,
+        "completed": true,
+        "progress_percentage": 79
+    },
+    {
+        "user_id": 377,
+        "lesson_id": 237,
+        "completed": true,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 373,
+        "lesson_id": 433,
+        "completed": true,
+        "progress_percentage": 38
+    },
+    {
+        "user_id": 2904,
+        "lesson_id": 575,
+        "completed": true,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 2822,
+        "lesson_id": 791,
+        "completed": false,
+        "progress_percentage": 57
+    },
+    {
+        "user_id": 2680,
+        "lesson_id": 592,
+        "completed": false,
+        "progress_percentage": 25
+    },
+    {
+        "user_id": 1775,
+        "lesson_id": 881,
+        "completed": false,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 286,
+        "lesson_id": 138,
+        "completed": true,
+        "progress_percentage": 23
+    },
+    {
+        "user_id": 2060,
+        "lesson_id": 462,
+        "completed": false,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 923,
+        "lesson_id": 134,
+        "completed": true,
+        "progress_percentage": 84
+    },
+    {
+        "user_id": 1969,
+        "lesson_id": 6,
+        "completed": false,
+        "progress_percentage": 43
+    },
+    {
+        "user_id": 2069,
+        "lesson_id": 527,
+        "completed": false,
+        "progress_percentage": 35
+    },
+    {
+        "user_id": 664,
+        "lesson_id": 829,
+        "completed": true,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 772,
+        "lesson_id": 909,
+        "completed": true,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 2323,
+        "lesson_id": 481,
+        "completed": true,
+        "progress_percentage": 1
+    },
+    {
+        "user_id": 1516,
+        "lesson_id": 768,
+        "completed": true,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 2214,
+        "lesson_id": 436,
+        "completed": false,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 614,
+        "lesson_id": 726,
+        "completed": false,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 1080,
+        "lesson_id": 239,
+        "completed": false,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 1329,
+        "lesson_id": 637,
+        "completed": false,
+        "progress_percentage": 27
+    },
+    {
+        "user_id": 2929,
+        "lesson_id": 798,
+        "completed": true,
+        "progress_percentage": 23
+    },
+    {
+        "user_id": 2813,
+        "lesson_id": 115,
+        "completed": false,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 2105,
+        "lesson_id": 485,
+        "completed": false,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 2643,
+        "lesson_id": 592,
+        "completed": false,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 480,
+        "lesson_id": 581,
+        "completed": false,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 352,
+        "lesson_id": 668,
+        "completed": false,
+        "progress_percentage": 38
+    },
+    {
+        "user_id": 1359,
+        "lesson_id": 562,
+        "completed": false,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 1649,
+        "lesson_id": 470,
+        "completed": false,
+        "progress_percentage": 53
+    },
+    {
+        "user_id": 126,
+        "lesson_id": 208,
+        "completed": true,
+        "progress_percentage": 68
+    },
+    {
+        "user_id": 2343,
+        "lesson_id": 907,
+        "completed": true,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 2379,
+        "lesson_id": 200,
+        "completed": true,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 1355,
+        "lesson_id": 467,
+        "completed": true,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 390,
+        "lesson_id": 595,
+        "completed": false,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 2846,
+        "lesson_id": 460,
+        "completed": true,
+        "progress_percentage": 8
+    },
+    {
+        "user_id": 1391,
+        "lesson_id": 682,
+        "completed": false,
+        "progress_percentage": 36
+    },
+    {
+        "user_id": 2174,
+        "lesson_id": 574,
+        "completed": false,
+        "progress_percentage": 88
+    },
+    {
+        "user_id": 618,
+        "lesson_id": 396,
+        "completed": true,
+        "progress_percentage": 4
+    },
+    {
+        "user_id": 2813,
+        "lesson_id": 392,
+        "completed": false,
+        "progress_percentage": 86
+    },
+    {
+        "user_id": 2894,
+        "lesson_id": 643,
+        "completed": false,
+        "progress_percentage": 34
+    },
+    {
+        "user_id": 1331,
+        "lesson_id": 170,
+        "completed": false,
+        "progress_percentage": 47
+    },
+    {
+        "user_id": 2056,
+        "lesson_id": 102,
+        "completed": true,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 692,
+        "lesson_id": 589,
+        "completed": false,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 689,
+        "lesson_id": 375,
+        "completed": true,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 441,
+        "lesson_id": 863,
+        "completed": true,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 43,
+        "lesson_id": 267,
+        "completed": false,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 2517,
+        "lesson_id": 544,
+        "completed": true,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 1685,
+        "lesson_id": 356,
+        "completed": false,
+        "progress_percentage": 76
+    },
+    {
+        "user_id": 253,
+        "lesson_id": 116,
+        "completed": false,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 2361,
+        "lesson_id": 7,
+        "completed": true,
+        "progress_percentage": 84
+    },
+    {
+        "user_id": 1601,
+        "lesson_id": 476,
+        "completed": true,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 494,
+        "lesson_id": 983,
+        "completed": true,
+        "progress_percentage": 45
+    },
+    {
+        "user_id": 303,
+        "lesson_id": 260,
+        "completed": false,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 2724,
+        "lesson_id": 540,
+        "completed": false,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 129,
+        "lesson_id": 175,
+        "completed": false,
+        "progress_percentage": 54
+    },
+    {
+        "user_id": 116,
+        "lesson_id": 290,
+        "completed": true,
+        "progress_percentage": 62
+    },
+    {
+        "user_id": 1183,
+        "lesson_id": 418,
+        "completed": false,
+        "progress_percentage": 50
+    },
+    {
+        "user_id": 2461,
+        "lesson_id": 440,
+        "completed": true,
+        "progress_percentage": 63
+    },
+    {
+        "user_id": 2021,
+        "lesson_id": 579,
+        "completed": false,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 312,
+        "lesson_id": 307,
+        "completed": true,
+        "progress_percentage": 92
+    },
+    {
+        "user_id": 1581,
+        "lesson_id": 835,
+        "completed": false,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 2746,
+        "lesson_id": 978,
+        "completed": false,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 2297,
+        "lesson_id": 403,
+        "completed": true,
+        "progress_percentage": 93
+    },
+    {
+        "user_id": 2777,
+        "lesson_id": 66,
+        "completed": false,
+        "progress_percentage": 36
+    },
+    {
+        "user_id": 2059,
+        "lesson_id": 536,
+        "completed": true,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 1213,
+        "lesson_id": 991,
+        "completed": false,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 97,
+        "lesson_id": 392,
+        "completed": true,
+        "progress_percentage": 80
+    },
+    {
+        "user_id": 2134,
+        "lesson_id": 274,
+        "completed": false,
+        "progress_percentage": 27
+    },
+    {
+        "user_id": 460,
+        "lesson_id": 247,
+        "completed": false,
+        "progress_percentage": 14
+    },
+    {
+        "user_id": 2242,
+        "lesson_id": 919,
+        "completed": true,
+        "progress_percentage": 79
+    },
+    {
+        "user_id": 63,
+        "lesson_id": 508,
+        "completed": false,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 961,
+        "lesson_id": 828,
+        "completed": false,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 410,
+        "lesson_id": 466,
+        "completed": true,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 2136,
+        "lesson_id": 295,
+        "completed": false,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 2644,
+        "lesson_id": 198,
+        "completed": true,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 428,
+        "lesson_id": 112,
+        "completed": false,
+        "progress_percentage": 82
+    },
+    {
+        "user_id": 2960,
+        "lesson_id": 604,
+        "completed": true,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 1981,
+        "lesson_id": 722,
+        "completed": false,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 875,
+        "lesson_id": 282,
+        "completed": true,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 1352,
+        "lesson_id": 735,
+        "completed": false,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 553,
+        "lesson_id": 238,
+        "completed": false,
+        "progress_percentage": 56
+    },
+    {
+        "user_id": 367,
+        "lesson_id": 265,
+        "completed": true,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 2586,
+        "lesson_id": 371,
+        "completed": false,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 1754,
+        "lesson_id": 629,
+        "completed": false,
+        "progress_percentage": 80
+    },
+    {
+        "user_id": 1099,
+        "lesson_id": 237,
+        "completed": false,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 1529,
+        "lesson_id": 911,
+        "completed": true,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 2211,
+        "lesson_id": 440,
+        "completed": false,
+        "progress_percentage": 16
+    },
+    {
+        "user_id": 2760,
+        "lesson_id": 550,
+        "completed": false,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 749,
+        "lesson_id": 52,
+        "completed": false,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 2209,
+        "lesson_id": 548,
+        "completed": true,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 1240,
+        "lesson_id": 586,
+        "completed": true,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 630,
+        "lesson_id": 10,
+        "completed": false,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 989,
+        "lesson_id": 404,
+        "completed": true,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 1751,
+        "lesson_id": 946,
+        "completed": true,
+        "progress_percentage": 84
+    },
+    {
+        "user_id": 1996,
+        "lesson_id": 307,
+        "completed": false,
+        "progress_percentage": 86
+    },
+    {
+        "user_id": 1278,
+        "lesson_id": 406,
+        "completed": false,
+        "progress_percentage": 10
+    },
+    {
+        "user_id": 2466,
+        "lesson_id": 668,
+        "completed": false,
+        "progress_percentage": 30
+    },
+    {
+        "user_id": 1151,
+        "lesson_id": 891,
+        "completed": false,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 472,
+        "lesson_id": 442,
+        "completed": false,
+        "progress_percentage": 40
+    },
+    {
+        "user_id": 1755,
+        "lesson_id": 565,
+        "completed": true,
+        "progress_percentage": 17
+    },
+    {
+        "user_id": 866,
+        "lesson_id": 514,
+        "completed": true,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 2645,
+        "lesson_id": 342,
+        "completed": true,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 2326,
+        "lesson_id": 991,
+        "completed": true,
+        "progress_percentage": 34
+    },
+    {
+        "user_id": 2295,
+        "lesson_id": 693,
+        "completed": false,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 1189,
+        "lesson_id": 176,
+        "completed": false,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 1701,
+        "lesson_id": 763,
+        "completed": true,
+        "progress_percentage": 45
+    },
+    {
+        "user_id": 2644,
+        "lesson_id": 85,
+        "completed": true,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 54,
+        "lesson_id": 228,
+        "completed": true,
+        "progress_percentage": 6
+    },
+    {
+        "user_id": 1932,
+        "lesson_id": 693,
+        "completed": false,
+        "progress_percentage": 26
+    },
+    {
+        "user_id": 210,
+        "lesson_id": 277,
+        "completed": true,
+        "progress_percentage": 6
+    },
+    {
+        "user_id": 1047,
+        "lesson_id": 808,
+        "completed": true,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 628,
+        "lesson_id": 761,
+        "completed": false,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 2562,
+        "lesson_id": 729,
+        "completed": true,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 2094,
+        "lesson_id": 273,
+        "completed": false,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 575,
+        "lesson_id": 874,
+        "completed": true,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 1339,
+        "lesson_id": 225,
+        "completed": true,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 2573,
+        "lesson_id": 29,
+        "completed": false,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 2776,
+        "lesson_id": 533,
+        "completed": false,
+        "progress_percentage": 25
+    },
+    {
+        "user_id": 1469,
+        "lesson_id": 449,
+        "completed": true,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 2691,
+        "lesson_id": 488,
+        "completed": true,
+        "progress_percentage": 37
+    },
+    {
+        "user_id": 2005,
+        "lesson_id": 686,
+        "completed": true,
+        "progress_percentage": 6
+    },
+    {
+        "user_id": 2035,
+        "lesson_id": 495,
+        "completed": true,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 276,
+        "lesson_id": 852,
+        "completed": false,
+        "progress_percentage": 95
+    },
+    {
+        "user_id": 2148,
+        "lesson_id": 496,
+        "completed": true,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 1048,
+        "lesson_id": 636,
+        "completed": true,
+        "progress_percentage": 45
+    },
+    {
+        "user_id": 508,
+        "lesson_id": 343,
+        "completed": false,
+        "progress_percentage": 37
+    },
+    {
+        "user_id": 2168,
+        "lesson_id": 36,
+        "completed": false,
+        "progress_percentage": 30
+    },
+    {
+        "user_id": 887,
+        "lesson_id": 81,
+        "completed": true,
+        "progress_percentage": 24
+    },
+    {
+        "user_id": 312,
+        "lesson_id": 220,
+        "completed": true,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 923,
+        "lesson_id": 850,
+        "completed": false,
+        "progress_percentage": 4
+    },
+    {
+        "user_id": 1340,
+        "lesson_id": 898,
+        "completed": true,
+        "progress_percentage": 36
+    },
+    {
+        "user_id": 2950,
+        "lesson_id": 849,
+        "completed": false,
+        "progress_percentage": 62
+    },
+    {
+        "user_id": 1575,
+        "lesson_id": 65,
+        "completed": true,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 2331,
+        "lesson_id": 59,
+        "completed": false,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 535,
+        "lesson_id": 623,
+        "completed": false,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 2988,
+        "lesson_id": 816,
+        "completed": true,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 1453,
+        "lesson_id": 634,
+        "completed": false,
+        "progress_percentage": 86
+    },
+    {
+        "user_id": 393,
+        "lesson_id": 784,
+        "completed": false,
+        "progress_percentage": 99
+    },
+    {
+        "user_id": 1658,
+        "lesson_id": 918,
+        "completed": true,
+        "progress_percentage": 78
+    },
+    {
+        "user_id": 1362,
+        "lesson_id": 760,
+        "completed": false,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 584,
+        "lesson_id": 734,
+        "completed": false,
+        "progress_percentage": 19
+    },
+    {
+        "user_id": 2725,
+        "lesson_id": 315,
+        "completed": false,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 2772,
+        "lesson_id": 252,
+        "completed": true,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 2390,
+        "lesson_id": 927,
+        "completed": true,
+        "progress_percentage": 15
+    },
+    {
+        "user_id": 2374,
+        "lesson_id": 871,
+        "completed": true,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 2532,
+        "lesson_id": 333,
+        "completed": false,
+        "progress_percentage": 38
+    },
+    {
+        "user_id": 1872,
+        "lesson_id": 353,
+        "completed": true,
+        "progress_percentage": 20
+    },
+    {
+        "user_id": 2125,
+        "lesson_id": 199,
+        "completed": false,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 1671,
+        "lesson_id": 825,
+        "completed": false,
+        "progress_percentage": 0
+    },
+    {
+        "user_id": 1934,
+        "lesson_id": 789,
+        "completed": true,
+        "progress_percentage": 4
+    },
+    {
+        "user_id": 2757,
+        "lesson_id": 2,
+        "completed": false,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 423,
+        "lesson_id": 758,
+        "completed": true,
+        "progress_percentage": 8
+    },
+    {
+        "user_id": 1440,
+        "lesson_id": 23,
+        "completed": true,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 81,
+        "lesson_id": 334,
+        "completed": false,
+        "progress_percentage": 16
+    },
+    {
+        "user_id": 2236,
+        "lesson_id": 992,
+        "completed": true,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 2999,
+        "lesson_id": 546,
+        "completed": true,
+        "progress_percentage": 40
+    },
+    {
+        "user_id": 2857,
+        "lesson_id": 429,
+        "completed": false,
+        "progress_percentage": 50
+    },
+    {
+        "user_id": 1627,
+        "lesson_id": 635,
+        "completed": false,
+        "progress_percentage": 50
+    },
+    {
+        "user_id": 297,
+        "lesson_id": 286,
+        "completed": false,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 567,
+        "lesson_id": 863,
+        "completed": false,
+        "progress_percentage": 13
+    },
+    {
+        "user_id": 2652,
+        "lesson_id": 740,
+        "completed": true,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 1389,
+        "lesson_id": 548,
+        "completed": true,
+        "progress_percentage": 79
+    },
+    {
+        "user_id": 1849,
+        "lesson_id": 837,
+        "completed": true,
+        "progress_percentage": 38
+    },
+    {
+        "user_id": 681,
+        "lesson_id": 413,
+        "completed": false,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 2131,
+        "lesson_id": 705,
+        "completed": false,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 2028,
+        "lesson_id": 736,
+        "completed": true,
+        "progress_percentage": 24
+    },
+    {
+        "user_id": 2574,
+        "lesson_id": 220,
+        "completed": true,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 1369,
+        "lesson_id": 898,
+        "completed": true,
+        "progress_percentage": 37
+    },
+    {
+        "user_id": 2944,
+        "lesson_id": 353,
+        "completed": false,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 1998,
+        "lesson_id": 990,
+        "completed": false,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 6,
+        "lesson_id": 869,
+        "completed": true,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 1255,
+        "lesson_id": 56,
+        "completed": true,
+        "progress_percentage": 87
+    },
+    {
+        "user_id": 2050,
+        "lesson_id": 862,
+        "completed": false,
+        "progress_percentage": 16
+    },
+    {
+        "user_id": 281,
+        "lesson_id": 570,
+        "completed": false,
+        "progress_percentage": 93
+    },
+    {
+        "user_id": 2125,
+        "lesson_id": 705,
+        "completed": true,
+        "progress_percentage": 43
+    },
+    {
+        "user_id": 666,
+        "lesson_id": 539,
+        "completed": false,
+        "progress_percentage": 94
+    },
+    {
+        "user_id": 160,
+        "lesson_id": 258,
+        "completed": true,
+        "progress_percentage": 47
+    },
+    {
+        "user_id": 969,
+        "lesson_id": 603,
+        "completed": false,
+        "progress_percentage": 1
+    },
+    {
+        "user_id": 873,
+        "lesson_id": 952,
+        "completed": false,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 218,
+        "lesson_id": 223,
+        "completed": true,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 2273,
+        "lesson_id": 443,
+        "completed": true,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 2132,
+        "lesson_id": 736,
+        "completed": true,
+        "progress_percentage": 2
+    },
+    {
+        "user_id": 344,
+        "lesson_id": 478,
+        "completed": false,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 1264,
+        "lesson_id": 558,
+        "completed": false,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 268,
+        "lesson_id": 331,
+        "completed": true,
+        "progress_percentage": 25
+    },
+    {
+        "user_id": 929,
+        "lesson_id": 939,
+        "completed": false,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 55,
+        "lesson_id": 222,
+        "completed": true,
+        "progress_percentage": 82
+    },
+    {
+        "user_id": 2399,
+        "lesson_id": 562,
+        "completed": true,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 206,
+        "lesson_id": 454,
+        "completed": true,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 2920,
+        "lesson_id": 178,
+        "completed": false,
+        "progress_percentage": 43
+    },
+    {
+        "user_id": 1906,
+        "lesson_id": 545,
+        "completed": true,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 1790,
+        "lesson_id": 481,
+        "completed": true,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 40,
+        "lesson_id": 239,
+        "completed": true,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 550,
+        "lesson_id": 301,
+        "completed": true,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 1708,
+        "lesson_id": 869,
+        "completed": true,
+        "progress_percentage": 67
+    },
+    {
+        "user_id": 152,
+        "lesson_id": 874,
+        "completed": false,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 1586,
+        "lesson_id": 233,
+        "completed": true,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 1006,
+        "lesson_id": 500,
+        "completed": true,
+        "progress_percentage": 84
+    },
+    {
+        "user_id": 677,
+        "lesson_id": 160,
+        "completed": false,
+        "progress_percentage": 34
+    },
+    {
+        "user_id": 1779,
+        "lesson_id": 157,
+        "completed": false,
+        "progress_percentage": 92
+    },
+    {
+        "user_id": 1231,
+        "lesson_id": 717,
+        "completed": true,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 987,
+        "lesson_id": 762,
+        "completed": true,
+        "progress_percentage": 66
+    },
+    {
+        "user_id": 1515,
+        "lesson_id": 610,
+        "completed": false,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 990,
+        "lesson_id": 536,
+        "completed": true,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 965,
+        "lesson_id": 429,
+        "completed": true,
+        "progress_percentage": 14
+    },
+    {
+        "user_id": 687,
+        "lesson_id": 441,
+        "completed": false,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 1562,
+        "lesson_id": 87,
+        "completed": false,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 151,
+        "lesson_id": 24,
+        "completed": true,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 1175,
+        "lesson_id": 326,
+        "completed": true,
+        "progress_percentage": 30
+    },
+    {
+        "user_id": 1663,
+        "lesson_id": 382,
+        "completed": true,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 95,
+        "lesson_id": 843,
+        "completed": false,
+        "progress_percentage": 63
+    },
+    {
+        "user_id": 330,
+        "lesson_id": 20,
+        "completed": true,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 826,
+        "lesson_id": 727,
+        "completed": true,
+        "progress_percentage": 94
+    },
+    {
+        "user_id": 147,
+        "lesson_id": 582,
+        "completed": false,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 394,
+        "lesson_id": 100,
+        "completed": true,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 2564,
+        "lesson_id": 240,
+        "completed": false,
+        "progress_percentage": 21
+    },
+    {
+        "user_id": 560,
+        "lesson_id": 513,
+        "completed": true,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 2591,
+        "lesson_id": 477,
+        "completed": true,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 2236,
+        "lesson_id": 101,
+        "completed": false,
+        "progress_percentage": 86
+    },
+    {
+        "user_id": 2842,
+        "lesson_id": 588,
+        "completed": true,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 1000,
+        "lesson_id": 899,
+        "completed": true,
+        "progress_percentage": 20
+    },
+    {
+        "user_id": 2505,
+        "lesson_id": 787,
+        "completed": false,
+        "progress_percentage": 34
+    },
+    {
+        "user_id": 436,
+        "lesson_id": 825,
+        "completed": true,
+        "progress_percentage": 19
+    },
+    {
+        "user_id": 221,
+        "lesson_id": 521,
+        "completed": false,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 345,
+        "lesson_id": 440,
+        "completed": true,
+        "progress_percentage": 47
+    },
+    {
+        "user_id": 2768,
+        "lesson_id": 890,
+        "completed": true,
+        "progress_percentage": 21
+    },
+    {
+        "user_id": 1385,
+        "lesson_id": 431,
+        "completed": false,
+        "progress_percentage": 94
+    },
+    {
+        "user_id": 1423,
+        "lesson_id": 588,
+        "completed": false,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 1590,
+        "lesson_id": 815,
+        "completed": false,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 1359,
+        "lesson_id": 466,
+        "completed": true,
+        "progress_percentage": 76
+    },
+    {
+        "user_id": 1613,
+        "lesson_id": 72,
+        "completed": false,
+        "progress_percentage": 16
+    },
+    {
+        "user_id": 2021,
+        "lesson_id": 668,
+        "completed": false,
+        "progress_percentage": 40
+    },
+    {
+        "user_id": 2077,
+        "lesson_id": 91,
+        "completed": true,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 1799,
+        "lesson_id": 261,
+        "completed": true,
+        "progress_percentage": 9
+    },
+    {
+        "user_id": 1843,
+        "lesson_id": 197,
+        "completed": false,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 1308,
+        "lesson_id": 969,
+        "completed": true,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 2007,
+        "lesson_id": 500,
+        "completed": false,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 1872,
+        "lesson_id": 949,
+        "completed": true,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 935,
+        "lesson_id": 734,
+        "completed": false,
+        "progress_percentage": 33
+    },
+    {
+        "user_id": 2926,
+        "lesson_id": 255,
+        "completed": true,
+        "progress_percentage": 2
+    },
+    {
+        "user_id": 724,
+        "lesson_id": 843,
+        "completed": true,
+        "progress_percentage": 16
+    },
+    {
+        "user_id": 867,
+        "lesson_id": 623,
+        "completed": false,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 970,
+        "lesson_id": 335,
+        "completed": true,
+        "progress_percentage": 8
+    },
+    {
+        "user_id": 1815,
+        "lesson_id": 681,
+        "completed": false,
+        "progress_percentage": 72
+    },
+    {
+        "user_id": 2473,
+        "lesson_id": 877,
+        "completed": false,
+        "progress_percentage": 94
+    },
+    {
+        "user_id": 2249,
+        "lesson_id": 952,
+        "completed": true,
+        "progress_percentage": 34
+    },
+    {
+        "user_id": 2989,
+        "lesson_id": 950,
+        "completed": false,
+        "progress_percentage": 1
+    },
+    {
+        "user_id": 113,
+        "lesson_id": 545,
+        "completed": false,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 18,
+        "lesson_id": 350,
+        "completed": true,
+        "progress_percentage": 76
+    },
+    {
+        "user_id": 109,
+        "lesson_id": 448,
+        "completed": true,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 1219,
+        "lesson_id": 234,
+        "completed": false,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 2044,
+        "lesson_id": 335,
+        "completed": false,
+        "progress_percentage": 1
+    },
+    {
+        "user_id": 1050,
+        "lesson_id": 852,
+        "completed": true,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 2335,
+        "lesson_id": 190,
+        "completed": true,
+        "progress_percentage": 95
+    },
+    {
+        "user_id": 1955,
+        "lesson_id": 420,
+        "completed": false,
+        "progress_percentage": 27
+    },
+    {
+        "user_id": 2772,
+        "lesson_id": 267,
+        "completed": false,
+        "progress_percentage": 4
+    },
+    {
+        "user_id": 1633,
+        "lesson_id": 920,
+        "completed": true,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 2594,
+        "lesson_id": 242,
+        "completed": true,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 2147,
+        "lesson_id": 270,
+        "completed": false,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 665,
+        "lesson_id": 558,
+        "completed": false,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 546,
+        "lesson_id": 807,
+        "completed": true,
+        "progress_percentage": 99
+    },
+    {
+        "user_id": 946,
+        "lesson_id": 155,
+        "completed": false,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 2148,
+        "lesson_id": 152,
+        "completed": true,
+        "progress_percentage": 0
+    },
+    {
+        "user_id": 2052,
+        "lesson_id": 857,
+        "completed": true,
+        "progress_percentage": 53
+    },
+    {
+        "user_id": 467,
+        "lesson_id": 839,
+        "completed": false,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 427,
+        "lesson_id": 250,
+        "completed": true,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 1874,
+        "lesson_id": 770,
+        "completed": false,
+        "progress_percentage": 34
+    },
+    {
+        "user_id": 1101,
+        "lesson_id": 854,
+        "completed": false,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 2571,
+        "lesson_id": 827,
+        "completed": true,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 1280,
+        "lesson_id": 182,
+        "completed": true,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 1935,
+        "lesson_id": 109,
+        "completed": true,
+        "progress_percentage": 57
+    },
+    {
+        "user_id": 1392,
+        "lesson_id": 543,
+        "completed": true,
+        "progress_percentage": 21
+    },
+    {
+        "user_id": 1382,
+        "lesson_id": 564,
+        "completed": false,
+        "progress_percentage": 86
+    },
+    {
+        "user_id": 504,
+        "lesson_id": 16,
+        "completed": true,
+        "progress_percentage": 27
+    },
+    {
+        "user_id": 323,
+        "lesson_id": 27,
+        "completed": false,
+        "progress_percentage": 56
+    },
+    {
+        "user_id": 1800,
+        "lesson_id": 259,
+        "completed": false,
+        "progress_percentage": 45
+    },
+    {
+        "user_id": 966,
+        "lesson_id": 768,
+        "completed": false,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 800,
+        "lesson_id": 28,
+        "completed": false,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 1617,
+        "lesson_id": 518,
+        "completed": true,
+        "progress_percentage": 27
+    },
+    {
+        "user_id": 1488,
+        "lesson_id": 377,
+        "completed": false,
+        "progress_percentage": 24
+    },
+    {
+        "user_id": 1142,
+        "lesson_id": 111,
+        "completed": false,
+        "progress_percentage": 76
+    },
+    {
+        "user_id": 2107,
+        "lesson_id": 165,
+        "completed": true,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 2423,
+        "lesson_id": 234,
+        "completed": true,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 924,
+        "lesson_id": 906,
+        "completed": false,
+        "progress_percentage": 13
+    },
+    {
+        "user_id": 2330,
+        "lesson_id": 477,
+        "completed": true,
+        "progress_percentage": 30
+    },
+    {
+        "user_id": 2642,
+        "lesson_id": 167,
+        "completed": true,
+        "progress_percentage": 93
+    },
+    {
+        "user_id": 1644,
+        "lesson_id": 225,
+        "completed": true,
+        "progress_percentage": 9
+    },
+    {
+        "user_id": 1847,
+        "lesson_id": 880,
+        "completed": false,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 789,
+        "lesson_id": 836,
+        "completed": false,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 465,
+        "lesson_id": 314,
+        "completed": true,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 2364,
+        "lesson_id": 221,
+        "completed": false,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 1720,
+        "lesson_id": 941,
+        "completed": false,
+        "progress_percentage": 2
+    },
+    {
+        "user_id": 536,
+        "lesson_id": 995,
+        "completed": false,
+        "progress_percentage": 38
+    },
+    {
+        "user_id": 1804,
+        "lesson_id": 824,
+        "completed": false,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 2021,
+        "lesson_id": 535,
+        "completed": true,
+        "progress_percentage": 4
+    },
+    {
+        "user_id": 704,
+        "lesson_id": 14,
+        "completed": true,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 1329,
+        "lesson_id": 513,
+        "completed": true,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 165,
+        "lesson_id": 420,
+        "completed": false,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 1229,
+        "lesson_id": 261,
+        "completed": false,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 1687,
+        "lesson_id": 936,
+        "completed": true,
+        "progress_percentage": 40
+    },
+    {
+        "user_id": 1597,
+        "lesson_id": 471,
+        "completed": true,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 2343,
+        "lesson_id": 773,
+        "completed": false,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 904,
+        "lesson_id": 563,
+        "completed": false,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 1301,
+        "lesson_id": 436,
+        "completed": true,
+        "progress_percentage": 33
+    },
+    {
+        "user_id": 2778,
+        "lesson_id": 708,
+        "completed": true,
+        "progress_percentage": 27
+    },
+    {
+        "user_id": 910,
+        "lesson_id": 151,
+        "completed": false,
+        "progress_percentage": 63
+    },
+    {
+        "user_id": 916,
+        "lesson_id": 297,
+        "completed": false,
+        "progress_percentage": 13
+    },
+    {
+        "user_id": 1811,
+        "lesson_id": 551,
+        "completed": true,
+        "progress_percentage": 45
+    },
+    {
+        "user_id": 700,
+        "lesson_id": 281,
+        "completed": true,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 636,
+        "lesson_id": 918,
+        "completed": false,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 1112,
+        "lesson_id": 154,
+        "completed": true,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 3000,
+        "lesson_id": 171,
+        "completed": false,
+        "progress_percentage": 68
+    },
+    {
+        "user_id": 2476,
+        "lesson_id": 11,
+        "completed": false,
+        "progress_percentage": 38
+    },
+    {
+        "user_id": 359,
+        "lesson_id": 647,
+        "completed": true,
+        "progress_percentage": 63
+    },
+    {
+        "user_id": 492,
+        "lesson_id": 872,
+        "completed": false,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 449,
+        "lesson_id": 227,
+        "completed": true,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 1908,
+        "lesson_id": 531,
+        "completed": false,
+        "progress_percentage": 76
+    },
+    {
+        "user_id": 479,
+        "lesson_id": 230,
+        "completed": true,
+        "progress_percentage": 86
+    },
+    {
+        "user_id": 2762,
+        "lesson_id": 885,
+        "completed": true,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 430,
+        "lesson_id": 589,
+        "completed": true,
+        "progress_percentage": 47
+    },
+    {
+        "user_id": 417,
+        "lesson_id": 726,
+        "completed": false,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 2118,
+        "lesson_id": 600,
+        "completed": true,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 248,
+        "lesson_id": 770,
+        "completed": false,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 600,
+        "lesson_id": 732,
+        "completed": false,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 1521,
+        "lesson_id": 28,
+        "completed": true,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 942,
+        "lesson_id": 255,
+        "completed": true,
+        "progress_percentage": 47
+    },
+    {
+        "user_id": 41,
+        "lesson_id": 910,
+        "completed": true,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 2991,
+        "lesson_id": 97,
+        "completed": true,
+        "progress_percentage": 23
+    },
+    {
+        "user_id": 1167,
+        "lesson_id": 12,
+        "completed": true,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 1168,
+        "lesson_id": 101,
+        "completed": false,
+        "progress_percentage": 23
+    },
+    {
+        "user_id": 1146,
+        "lesson_id": 171,
+        "completed": true,
+        "progress_percentage": 37
+    },
+    {
+        "user_id": 684,
+        "lesson_id": 883,
+        "completed": true,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 2499,
+        "lesson_id": 671,
+        "completed": true,
+        "progress_percentage": 16
+    },
+    {
+        "user_id": 1828,
+        "lesson_id": 254,
+        "completed": false,
+        "progress_percentage": 25
+    },
+    {
+        "user_id": 2307,
+        "lesson_id": 914,
+        "completed": true,
+        "progress_percentage": 8
+    },
+    {
+        "user_id": 1938,
+        "lesson_id": 356,
+        "completed": true,
+        "progress_percentage": 62
+    },
+    {
+        "user_id": 567,
+        "lesson_id": 383,
+        "completed": false,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 1159,
+        "lesson_id": 471,
+        "completed": false,
+        "progress_percentage": 16
+    },
+    {
+        "user_id": 584,
+        "lesson_id": 458,
+        "completed": true,
+        "progress_percentage": 99
+    },
+    {
+        "user_id": 46,
+        "lesson_id": 886,
+        "completed": true,
+        "progress_percentage": 43
+    },
+    {
+        "user_id": 2602,
+        "lesson_id": 856,
+        "completed": false,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 1742,
+        "lesson_id": 255,
+        "completed": false,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 2002,
+        "lesson_id": 479,
+        "completed": true,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 127,
+        "lesson_id": 744,
+        "completed": false,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 1708,
+        "lesson_id": 737,
+        "completed": true,
+        "progress_percentage": 99
+    },
+    {
+        "user_id": 945,
+        "lesson_id": 772,
+        "completed": false,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 637,
+        "lesson_id": 116,
+        "completed": true,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 944,
+        "lesson_id": 267,
+        "completed": true,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 1301,
+        "lesson_id": 839,
+        "completed": false,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 2794,
+        "lesson_id": 67,
+        "completed": false,
+        "progress_percentage": 14
+    },
+    {
+        "user_id": 2148,
+        "lesson_id": 594,
+        "completed": false,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 1054,
+        "lesson_id": 469,
+        "completed": false,
+        "progress_percentage": 25
+    },
+    {
+        "user_id": 1279,
+        "lesson_id": 338,
+        "completed": true,
+        "progress_percentage": 53
+    },
+    {
+        "user_id": 1954,
+        "lesson_id": 515,
+        "completed": true,
+        "progress_percentage": 80
+    },
+    {
+        "user_id": 618,
+        "lesson_id": 815,
+        "completed": true,
+        "progress_percentage": 20
+    },
+    {
+        "user_id": 1063,
+        "lesson_id": 375,
+        "completed": true,
+        "progress_percentage": 82
+    },
+    {
+        "user_id": 1127,
+        "lesson_id": 245,
+        "completed": false,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 2834,
+        "lesson_id": 639,
+        "completed": true,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 682,
+        "lesson_id": 892,
+        "completed": false,
+        "progress_percentage": 54
+    },
+    {
+        "user_id": 136,
+        "lesson_id": 420,
+        "completed": true,
+        "progress_percentage": 72
+    },
+    {
+        "user_id": 921,
+        "lesson_id": 888,
+        "completed": false,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 2679,
+        "lesson_id": 374,
+        "completed": true,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 611,
+        "lesson_id": 196,
+        "completed": false,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 2750,
+        "lesson_id": 448,
+        "completed": true,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 2699,
+        "lesson_id": 177,
+        "completed": true,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 2304,
+        "lesson_id": 766,
+        "completed": true,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 1733,
+        "lesson_id": 988,
+        "completed": true,
+        "progress_percentage": 38
+    },
+    {
+        "user_id": 1439,
+        "lesson_id": 936,
+        "completed": true,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 2511,
+        "lesson_id": 359,
+        "completed": true,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 212,
+        "lesson_id": 577,
+        "completed": true,
+        "progress_percentage": 73
+    },
+    {
+        "user_id": 1734,
+        "lesson_id": 339,
+        "completed": false,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 2332,
+        "lesson_id": 58,
+        "completed": false,
+        "progress_percentage": 50
+    },
+    {
+        "user_id": 970,
+        "lesson_id": 158,
+        "completed": false,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 209,
+        "lesson_id": 583,
+        "completed": false,
+        "progress_percentage": 34
+    },
+    {
+        "user_id": 1917,
+        "lesson_id": 471,
+        "completed": false,
+        "progress_percentage": 73
+    },
+    {
+        "user_id": 1191,
+        "lesson_id": 636,
+        "completed": true,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 2837,
+        "lesson_id": 102,
+        "completed": true,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 1021,
+        "lesson_id": 521,
+        "completed": false,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 1284,
+        "lesson_id": 951,
+        "completed": true,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 1081,
+        "lesson_id": 298,
+        "completed": true,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 521,
+        "lesson_id": 97,
+        "completed": false,
+        "progress_percentage": 23
+    },
+    {
+        "user_id": 1012,
+        "lesson_id": 631,
+        "completed": false,
+        "progress_percentage": 15
+    },
+    {
+        "user_id": 768,
+        "lesson_id": 24,
+        "completed": true,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 2371,
+        "lesson_id": 637,
+        "completed": true,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 111,
+        "lesson_id": 227,
+        "completed": false,
+        "progress_percentage": 62
+    },
+    {
+        "user_id": 552,
+        "lesson_id": 134,
+        "completed": true,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 1927,
+        "lesson_id": 890,
+        "completed": true,
+        "progress_percentage": 94
+    },
+    {
+        "user_id": 314,
+        "lesson_id": 335,
+        "completed": true,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 745,
+        "lesson_id": 174,
+        "completed": true,
+        "progress_percentage": 8
+    },
+    {
+        "user_id": 739,
+        "lesson_id": 154,
+        "completed": true,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 89,
+        "lesson_id": 845,
+        "completed": false,
+        "progress_percentage": 2
+    },
+    {
+        "user_id": 1669,
+        "lesson_id": 141,
+        "completed": false,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 992,
+        "lesson_id": 401,
+        "completed": true,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 1507,
+        "lesson_id": 428,
+        "completed": true,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 623,
+        "lesson_id": 879,
+        "completed": true,
+        "progress_percentage": 88
+    },
+    {
+        "user_id": 2310,
+        "lesson_id": 298,
+        "completed": true,
+        "progress_percentage": 32
+    },
+    {
+        "user_id": 1280,
+        "lesson_id": 258,
+        "completed": false,
+        "progress_percentage": 72
+    },
+    {
+        "user_id": 513,
+        "lesson_id": 297,
+        "completed": true,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 1441,
+        "lesson_id": 900,
+        "completed": true,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 1841,
+        "lesson_id": 404,
+        "completed": true,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 228,
+        "lesson_id": 916,
+        "completed": true,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 1188,
+        "lesson_id": 317,
+        "completed": false,
+        "progress_percentage": 45
+    },
+    {
+        "user_id": 1937,
+        "lesson_id": 574,
+        "completed": true,
+        "progress_percentage": 88
+    },
+    {
+        "user_id": 1549,
+        "lesson_id": 475,
+        "completed": false,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 483,
+        "lesson_id": 516,
+        "completed": false,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 289,
+        "lesson_id": 866,
+        "completed": true,
+        "progress_percentage": 67
+    },
+    {
+        "user_id": 2102,
+        "lesson_id": 981,
+        "completed": true,
+        "progress_percentage": 57
+    },
+    {
+        "user_id": 1848,
+        "lesson_id": 876,
+        "completed": true,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 645,
+        "lesson_id": 825,
+        "completed": true,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 2127,
+        "lesson_id": 930,
+        "completed": true,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 2691,
+        "lesson_id": 84,
+        "completed": true,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 893,
+        "lesson_id": 948,
+        "completed": true,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 1958,
+        "lesson_id": 850,
+        "completed": true,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 1593,
+        "lesson_id": 452,
+        "completed": false,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 2171,
+        "lesson_id": 991,
+        "completed": false,
+        "progress_percentage": 72
+    },
+    {
+        "user_id": 306,
+        "lesson_id": 234,
+        "completed": true,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 2777,
+        "lesson_id": 983,
+        "completed": true,
+        "progress_percentage": 36
+    },
+    {
+        "user_id": 925,
+        "lesson_id": 390,
+        "completed": true,
+        "progress_percentage": 54
+    },
+    {
+        "user_id": 227,
+        "lesson_id": 578,
+        "completed": false,
+        "progress_percentage": 50
+    },
+    {
+        "user_id": 2103,
+        "lesson_id": 86,
+        "completed": false,
+        "progress_percentage": 87
+    },
+    {
+        "user_id": 1969,
+        "lesson_id": 840,
+        "completed": true,
+        "progress_percentage": 10
+    },
+    {
+        "user_id": 2002,
+        "lesson_id": 28,
+        "completed": true,
+        "progress_percentage": 6
+    },
+    {
+        "user_id": 2986,
+        "lesson_id": 874,
+        "completed": false,
+        "progress_percentage": 62
+    },
+    {
+        "user_id": 2420,
+        "lesson_id": 521,
+        "completed": true,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 750,
+        "lesson_id": 72,
+        "completed": false,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 327,
+        "lesson_id": 401,
+        "completed": false,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 2255,
+        "lesson_id": 747,
+        "completed": false,
+        "progress_percentage": 10
+    },
+    {
+        "user_id": 1778,
+        "lesson_id": 861,
+        "completed": false,
+        "progress_percentage": 21
+    },
+    {
+        "user_id": 1816,
+        "lesson_id": 543,
+        "completed": false,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 478,
+        "lesson_id": 706,
+        "completed": true,
+        "progress_percentage": 1
+    },
+    {
+        "user_id": 1370,
+        "lesson_id": 93,
+        "completed": false,
+        "progress_percentage": 6
+    },
+    {
+        "user_id": 726,
+        "lesson_id": 513,
+        "completed": false,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 2247,
+        "lesson_id": 224,
+        "completed": true,
+        "progress_percentage": 73
+    },
+    {
+        "user_id": 2070,
+        "lesson_id": 922,
+        "completed": false,
+        "progress_percentage": 78
+    },
+    {
+        "user_id": 1566,
+        "lesson_id": 386,
+        "completed": true,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 2744,
+        "lesson_id": 662,
+        "completed": true,
+        "progress_percentage": 20
+    },
+    {
+        "user_id": 1867,
+        "lesson_id": 75,
+        "completed": false,
+        "progress_percentage": 92
+    },
+    {
+        "user_id": 777,
+        "lesson_id": 335,
+        "completed": false,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 1466,
+        "lesson_id": 667,
+        "completed": false,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 2593,
+        "lesson_id": 855,
+        "completed": true,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 510,
+        "lesson_id": 530,
+        "completed": true,
+        "progress_percentage": 99
+    },
+    {
+        "user_id": 1240,
+        "lesson_id": 901,
+        "completed": true,
+        "progress_percentage": 48
+    },
+    {
+        "user_id": 1767,
+        "lesson_id": 591,
+        "completed": false,
+        "progress_percentage": 36
+    },
+    {
+        "user_id": 2858,
+        "lesson_id": 769,
+        "completed": true,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 1861,
+        "lesson_id": 177,
+        "completed": false,
+        "progress_percentage": 26
+    },
+    {
+        "user_id": 2677,
+        "lesson_id": 214,
+        "completed": true,
+        "progress_percentage": 48
+    },
+    {
+        "user_id": 1199,
+        "lesson_id": 295,
+        "completed": false,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 2907,
+        "lesson_id": 515,
+        "completed": true,
+        "progress_percentage": 78
+    },
+    {
+        "user_id": 2263,
+        "lesson_id": 449,
+        "completed": true,
+        "progress_percentage": 26
+    },
+    {
+        "user_id": 2641,
+        "lesson_id": 417,
+        "completed": true,
+        "progress_percentage": 10
+    },
+    {
+        "user_id": 2887,
+        "lesson_id": 544,
+        "completed": false,
+        "progress_percentage": 7
+    },
+    {
+        "user_id": 1637,
+        "lesson_id": 201,
+        "completed": true,
+        "progress_percentage": 57
+    },
+    {
+        "user_id": 2697,
+        "lesson_id": 531,
+        "completed": false,
+        "progress_percentage": 72
+    },
+    {
+        "user_id": 1,
+        "lesson_id": 933,
+        "completed": true,
+        "progress_percentage": 63
+    },
+    {
+        "user_id": 2937,
+        "lesson_id": 380,
+        "completed": false,
+        "progress_percentage": 47
+    },
+    {
+        "user_id": 1668,
+        "lesson_id": 76,
+        "completed": true,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 2853,
+        "lesson_id": 953,
+        "completed": true,
+        "progress_percentage": 79
+    },
+    {
+        "user_id": 2328,
+        "lesson_id": 26,
+        "completed": false,
+        "progress_percentage": 72
+    },
+    {
+        "user_id": 1826,
+        "lesson_id": 752,
+        "completed": false,
+        "progress_percentage": 87
+    },
+    {
+        "user_id": 2000,
+        "lesson_id": 390,
+        "completed": true,
+        "progress_percentage": 87
+    },
+    {
+        "user_id": 2795,
+        "lesson_id": 227,
+        "completed": true,
+        "progress_percentage": 73
+    },
+    {
+        "user_id": 407,
+        "lesson_id": 405,
+        "completed": false,
+        "progress_percentage": 95
+    },
+    {
+        "user_id": 357,
+        "lesson_id": 309,
+        "completed": true,
+        "progress_percentage": 9
+    },
+    {
+        "user_id": 429,
+        "lesson_id": 225,
+        "completed": true,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 2526,
+        "lesson_id": 682,
+        "completed": false,
+        "progress_percentage": 36
+    },
+    {
+        "user_id": 1547,
+        "lesson_id": 438,
+        "completed": false,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 1201,
+        "lesson_id": 815,
+        "completed": false,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 920,
+        "lesson_id": 429,
+        "completed": false,
+        "progress_percentage": 66
+    },
+    {
+        "user_id": 903,
+        "lesson_id": 54,
+        "completed": true,
+        "progress_percentage": 8
+    },
+    {
+        "user_id": 849,
+        "lesson_id": 958,
+        "completed": true,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 1026,
+        "lesson_id": 289,
+        "completed": false,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 1534,
+        "lesson_id": 373,
+        "completed": true,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 1653,
+        "lesson_id": 108,
+        "completed": false,
+        "progress_percentage": 9
+    },
+    {
+        "user_id": 1995,
+        "lesson_id": 509,
+        "completed": false,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 1301,
+        "lesson_id": 409,
+        "completed": true,
+        "progress_percentage": 9
+    },
+    {
+        "user_id": 560,
+        "lesson_id": 964,
+        "completed": true,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 1636,
+        "lesson_id": 493,
+        "completed": true,
+        "progress_percentage": 25
+    },
+    {
+        "user_id": 2936,
+        "lesson_id": 456,
+        "completed": true,
+        "progress_percentage": 67
+    },
+    {
+        "user_id": 2736,
+        "lesson_id": 644,
+        "completed": true,
+        "progress_percentage": 24
+    },
+    {
+        "user_id": 583,
+        "lesson_id": 775,
+        "completed": true,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 2045,
+        "lesson_id": 540,
+        "completed": false,
+        "progress_percentage": 20
+    },
+    {
+        "user_id": 544,
+        "lesson_id": 619,
+        "completed": false,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 150,
+        "lesson_id": 191,
+        "completed": true,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 114,
+        "lesson_id": 749,
+        "completed": false,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 2649,
+        "lesson_id": 818,
+        "completed": true,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 2698,
+        "lesson_id": 426,
+        "completed": false,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 1146,
+        "lesson_id": 689,
+        "completed": true,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 1923,
+        "lesson_id": 850,
+        "completed": true,
+        "progress_percentage": 54
+    },
+    {
+        "user_id": 1197,
+        "lesson_id": 542,
+        "completed": true,
+        "progress_percentage": 1
+    },
+    {
+        "user_id": 2973,
+        "lesson_id": 397,
+        "completed": true,
+        "progress_percentage": 30
+    },
+    {
+        "user_id": 1520,
+        "lesson_id": 344,
+        "completed": false,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 2041,
+        "lesson_id": 499,
+        "completed": false,
+        "progress_percentage": 81
+    },
+    {
+        "user_id": 2077,
+        "lesson_id": 449,
+        "completed": false,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 222,
+        "lesson_id": 968,
+        "completed": true,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 2000,
+        "lesson_id": 779,
+        "completed": false,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 1105,
+        "lesson_id": 529,
+        "completed": true,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 2844,
+        "lesson_id": 430,
+        "completed": false,
+        "progress_percentage": 87
+    },
+    {
+        "user_id": 1787,
+        "lesson_id": 927,
+        "completed": false,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 463,
+        "lesson_id": 446,
+        "completed": false,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 389,
+        "lesson_id": 148,
+        "completed": true,
+        "progress_percentage": 95
+    },
+    {
+        "user_id": 2789,
+        "lesson_id": 285,
+        "completed": true,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 2882,
+        "lesson_id": 45,
+        "completed": false,
+        "progress_percentage": 16
+    },
+    {
+        "user_id": 1914,
+        "lesson_id": 688,
+        "completed": true,
+        "progress_percentage": 0
+    },
+    {
+        "user_id": 1799,
+        "lesson_id": 122,
+        "completed": true,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 2238,
+        "lesson_id": 583,
+        "completed": false,
+        "progress_percentage": 85
+    },
+    {
+        "user_id": 2454,
+        "lesson_id": 430,
+        "completed": true,
+        "progress_percentage": 81
+    },
+    {
+        "user_id": 1444,
+        "lesson_id": 33,
+        "completed": false,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 2303,
+        "lesson_id": 783,
+        "completed": false,
+        "progress_percentage": 10
+    },
+    {
+        "user_id": 1045,
+        "lesson_id": 259,
+        "completed": false,
+        "progress_percentage": 86
+    },
+    {
+        "user_id": 747,
+        "lesson_id": 57,
+        "completed": false,
+        "progress_percentage": 20
+    },
+    {
+        "user_id": 2609,
+        "lesson_id": 107,
+        "completed": false,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 2768,
+        "lesson_id": 992,
+        "completed": true,
+        "progress_percentage": 50
+    },
+    {
+        "user_id": 199,
+        "lesson_id": 851,
+        "completed": false,
+        "progress_percentage": 45
+    },
+    {
+        "user_id": 199,
+        "lesson_id": 172,
+        "completed": true,
+        "progress_percentage": 21
+    },
+    {
+        "user_id": 968,
+        "lesson_id": 300,
+        "completed": true,
+        "progress_percentage": 79
+    },
+    {
+        "user_id": 2845,
+        "lesson_id": 602,
+        "completed": true,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 2515,
+        "lesson_id": 303,
+        "completed": false,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 2320,
+        "lesson_id": 533,
+        "completed": true,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 2912,
+        "lesson_id": 247,
+        "completed": true,
+        "progress_percentage": 9
+    },
+    {
+        "user_id": 295,
+        "lesson_id": 785,
+        "completed": true,
+        "progress_percentage": 58
+    },
+    {
+        "user_id": 1030,
+        "lesson_id": 986,
+        "completed": true,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 2946,
+        "lesson_id": 154,
+        "completed": true,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 1941,
+        "lesson_id": 738,
+        "completed": false,
+        "progress_percentage": 56
+    },
+    {
+        "user_id": 335,
+        "lesson_id": 991,
+        "completed": false,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 2704,
+        "lesson_id": 663,
+        "completed": false,
+        "progress_percentage": 94
+    },
+    {
+        "user_id": 1654,
+        "lesson_id": 258,
+        "completed": true,
+        "progress_percentage": 92
+    },
+    {
+        "user_id": 281,
+        "lesson_id": 927,
+        "completed": false,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 1664,
+        "lesson_id": 204,
+        "completed": true,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 307,
+        "lesson_id": 219,
+        "completed": false,
+        "progress_percentage": 13
+    },
+    {
+        "user_id": 997,
+        "lesson_id": 581,
+        "completed": true,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 1157,
+        "lesson_id": 32,
+        "completed": true,
+        "progress_percentage": 47
+    },
+    {
+        "user_id": 1238,
+        "lesson_id": 847,
+        "completed": true,
+        "progress_percentage": 40
+    },
+    {
+        "user_id": 2308,
+        "lesson_id": 777,
+        "completed": true,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 872,
+        "lesson_id": 701,
+        "completed": true,
+        "progress_percentage": 68
+    },
+    {
+        "user_id": 220,
+        "lesson_id": 63,
+        "completed": false,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 2207,
+        "lesson_id": 611,
+        "completed": true,
+        "progress_percentage": 14
+    },
+    {
+        "user_id": 2537,
+        "lesson_id": 270,
+        "completed": true,
+        "progress_percentage": 16
+    },
+    {
+        "user_id": 2864,
+        "lesson_id": 287,
+        "completed": false,
+        "progress_percentage": 53
+    },
+    {
+        "user_id": 1017,
+        "lesson_id": 111,
+        "completed": true,
+        "progress_percentage": 76
+    },
+    {
+        "user_id": 2117,
+        "lesson_id": 123,
+        "completed": false,
+        "progress_percentage": 17
+    },
+    {
+        "user_id": 2461,
+        "lesson_id": 369,
+        "completed": false,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 939,
+        "lesson_id": 568,
+        "completed": false,
+        "progress_percentage": 89
+    },
+    {
+        "user_id": 669,
+        "lesson_id": 757,
+        "completed": false,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 2922,
+        "lesson_id": 59,
+        "completed": false,
+        "progress_percentage": 73
+    },
+    {
+        "user_id": 351,
+        "lesson_id": 2,
+        "completed": true,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 2621,
+        "lesson_id": 866,
+        "completed": false,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 614,
+        "lesson_id": 680,
+        "completed": false,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 642,
+        "lesson_id": 565,
+        "completed": true,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 1179,
+        "lesson_id": 446,
+        "completed": true,
+        "progress_percentage": 95
+    },
+    {
+        "user_id": 840,
+        "lesson_id": 293,
+        "completed": true,
+        "progress_percentage": 56
+    },
+    {
+        "user_id": 2799,
+        "lesson_id": 403,
+        "completed": false,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 188,
+        "lesson_id": 597,
+        "completed": true,
+        "progress_percentage": 66
+    },
+    {
+        "user_id": 2771,
+        "lesson_id": 906,
+        "completed": false,
+        "progress_percentage": 31
+    },
+    {
+        "user_id": 711,
+        "lesson_id": 230,
+        "completed": true,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 1037,
+        "lesson_id": 121,
+        "completed": true,
+        "progress_percentage": 36
+    },
+    {
+        "user_id": 2924,
+        "lesson_id": 787,
+        "completed": true,
+        "progress_percentage": 88
+    },
+    {
+        "user_id": 814,
+        "lesson_id": 241,
+        "completed": false,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 1345,
+        "lesson_id": 786,
+        "completed": false,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 1957,
+        "lesson_id": 772,
+        "completed": true,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 2223,
+        "lesson_id": 56,
+        "completed": true,
+        "progress_percentage": 0
+    },
+    {
+        "user_id": 1676,
+        "lesson_id": 577,
+        "completed": false,
+        "progress_percentage": 85
+    },
+    {
+        "user_id": 2010,
+        "lesson_id": 580,
+        "completed": false,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 226,
+        "lesson_id": 708,
+        "completed": true,
+        "progress_percentage": 68
+    },
+    {
+        "user_id": 606,
+        "lesson_id": 55,
+        "completed": true,
+        "progress_percentage": 27
+    },
+    {
+        "user_id": 404,
+        "lesson_id": 765,
+        "completed": false,
+        "progress_percentage": 8
+    },
+    {
+        "user_id": 106,
+        "lesson_id": 836,
+        "completed": false,
+        "progress_percentage": 24
+    },
+    {
+        "user_id": 2309,
+        "lesson_id": 101,
+        "completed": true,
+        "progress_percentage": 9
+    },
+    {
+        "user_id": 425,
+        "lesson_id": 697,
+        "completed": false,
+        "progress_percentage": 2
+    },
+    {
+        "user_id": 842,
+        "lesson_id": 327,
+        "completed": false,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 2360,
+        "lesson_id": 87,
+        "completed": false,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 2882,
+        "lesson_id": 24,
+        "completed": true,
+        "progress_percentage": 23
+    },
+    {
+        "user_id": 467,
+        "lesson_id": 920,
+        "completed": true,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 2272,
+        "lesson_id": 6,
+        "completed": false,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 958,
+        "lesson_id": 529,
+        "completed": false,
+        "progress_percentage": 78
+    },
+    {
+        "user_id": 708,
+        "lesson_id": 178,
+        "completed": false,
+        "progress_percentage": 99
+    },
+    {
+        "user_id": 542,
+        "lesson_id": 160,
+        "completed": true,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 2876,
+        "lesson_id": 293,
+        "completed": true,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 1947,
+        "lesson_id": 548,
+        "completed": false,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 101,
+        "lesson_id": 540,
+        "completed": true,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 174,
+        "lesson_id": 909,
+        "completed": false,
+        "progress_percentage": 44
+    },
+    {
+        "user_id": 2215,
+        "lesson_id": 752,
+        "completed": false,
+        "progress_percentage": 57
+    },
+    {
+        "user_id": 2709,
+        "lesson_id": 457,
+        "completed": true,
+        "progress_percentage": 71
+    },
+    {
+        "user_id": 497,
+        "lesson_id": 198,
+        "completed": false,
+        "progress_percentage": 69
+    },
+    {
+        "user_id": 1626,
+        "lesson_id": 324,
+        "completed": true,
+        "progress_percentage": 87
+    },
+    {
+        "user_id": 2178,
+        "lesson_id": 634,
+        "completed": false,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 1398,
+        "lesson_id": 90,
+        "completed": false,
+        "progress_percentage": 3
+    },
+    {
+        "user_id": 1403,
+        "lesson_id": 470,
+        "completed": false,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 107,
+        "lesson_id": 925,
+        "completed": true,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 883,
+        "lesson_id": 832,
+        "completed": false,
+        "progress_percentage": 65
+    },
+    {
+        "user_id": 361,
+        "lesson_id": 239,
+        "completed": false,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 1072,
+        "lesson_id": 649,
+        "completed": true,
+        "progress_percentage": 48
+    },
+    {
+        "user_id": 580,
+        "lesson_id": 731,
+        "completed": false,
+        "progress_percentage": 75
+    },
+    {
+        "user_id": 1048,
+        "lesson_id": 82,
+        "completed": false,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 1747,
+        "lesson_id": 24,
+        "completed": true,
+        "progress_percentage": 61
+    },
+    {
+        "user_id": 1657,
+        "lesson_id": 283,
+        "completed": false,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 2767,
+        "lesson_id": 698,
+        "completed": false,
+        "progress_percentage": 11
+    },
+    {
+        "user_id": 623,
+        "lesson_id": 908,
+        "completed": true,
+        "progress_percentage": 53
+    },
+    {
+        "user_id": 2109,
+        "lesson_id": 100,
+        "completed": true,
+        "progress_percentage": 99
+    },
+    {
+        "user_id": 2272,
+        "lesson_id": 257,
+        "completed": false,
+        "progress_percentage": 73
+    },
+    {
+        "user_id": 75,
+        "lesson_id": 443,
+        "completed": false,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 2573,
+        "lesson_id": 775,
+        "completed": true,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 2815,
+        "lesson_id": 533,
+        "completed": false,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 2943,
+        "lesson_id": 294,
+        "completed": false,
+        "progress_percentage": 97
+    },
+    {
+        "user_id": 1737,
+        "lesson_id": 813,
+        "completed": true,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 714,
+        "lesson_id": 722,
+        "completed": false,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 341,
+        "lesson_id": 158,
+        "completed": true,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 2737,
+        "lesson_id": 580,
+        "completed": false,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 516,
+        "lesson_id": 360,
+        "completed": true,
+        "progress_percentage": 26
+    },
+    {
+        "user_id": 428,
+        "lesson_id": 743,
+        "completed": false,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 2167,
+        "lesson_id": 818,
+        "completed": false,
+        "progress_percentage": 85
+    },
+    {
+        "user_id": 703,
+        "lesson_id": 440,
+        "completed": true,
+        "progress_percentage": 39
+    },
+    {
+        "user_id": 2654,
+        "lesson_id": 399,
+        "completed": true,
+        "progress_percentage": 84
+    },
+    {
+        "user_id": 192,
+        "lesson_id": 706,
+        "completed": true,
+        "progress_percentage": 87
+    },
+    {
+        "user_id": 1203,
+        "lesson_id": 538,
+        "completed": false,
+        "progress_percentage": 40
+    },
+    {
+        "user_id": 535,
+        "lesson_id": 25,
+        "completed": true,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 2649,
+        "lesson_id": 439,
+        "completed": false,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 1245,
+        "lesson_id": 247,
+        "completed": false,
+        "progress_percentage": 24
+    },
+    {
+        "user_id": 1576,
+        "lesson_id": 166,
+        "completed": false,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 658,
+        "lesson_id": 664,
+        "completed": true,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 17,
+        "lesson_id": 428,
+        "completed": false,
+        "progress_percentage": 56
+    },
+    {
+        "user_id": 726,
+        "lesson_id": 323,
+        "completed": false,
+        "progress_percentage": 90
+    },
+    {
+        "user_id": 2162,
+        "lesson_id": 896,
+        "completed": false,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 617,
+        "lesson_id": 496,
+        "completed": true,
+        "progress_percentage": 38
+    },
+    {
+        "user_id": 2346,
+        "lesson_id": 739,
+        "completed": true,
+        "progress_percentage": 13
+    },
+    {
+        "user_id": 749,
+        "lesson_id": 636,
+        "completed": true,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 2585,
+        "lesson_id": 525,
+        "completed": false,
+        "progress_percentage": 29
+    },
+    {
+        "user_id": 599,
+        "lesson_id": 455,
+        "completed": true,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 917,
+        "lesson_id": 48,
+        "completed": false,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 26,
+        "lesson_id": 173,
+        "completed": false,
+        "progress_percentage": 26
+    },
+    {
+        "user_id": 2258,
+        "lesson_id": 642,
+        "completed": false,
+        "progress_percentage": 83
+    },
+    {
+        "user_id": 2688,
+        "lesson_id": 156,
+        "completed": false,
+        "progress_percentage": 4
+    },
+    {
+        "user_id": 1406,
+        "lesson_id": 859,
+        "completed": false,
+        "progress_percentage": 35
+    },
+    {
+        "user_id": 464,
+        "lesson_id": 543,
+        "completed": false,
+        "progress_percentage": 54
+    },
+    {
+        "user_id": 2576,
+        "lesson_id": 31,
+        "completed": false,
+        "progress_percentage": 79
+    },
+    {
+        "user_id": 904,
+        "lesson_id": 213,
+        "completed": true,
+        "progress_percentage": 76
+    },
+    {
+        "user_id": 1589,
+        "lesson_id": 717,
+        "completed": true,
+        "progress_percentage": 82
+    },
+    {
+        "user_id": 2224,
+        "lesson_id": 465,
+        "completed": false,
+        "progress_percentage": 2
+    },
+    {
+        "user_id": 969,
+        "lesson_id": 837,
+        "completed": false,
+        "progress_percentage": 48
+    },
+    {
+        "user_id": 408,
+        "lesson_id": 285,
+        "completed": false,
+        "progress_percentage": 86
+    },
+    {
+        "user_id": 1648,
+        "lesson_id": 111,
+        "completed": true,
+        "progress_percentage": 98
+    },
+    {
+        "user_id": 398,
+        "lesson_id": 87,
+        "completed": false,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 2509,
+        "lesson_id": 63,
+        "completed": true,
+        "progress_percentage": 6
+    },
+    {
+        "user_id": 1771,
+        "lesson_id": 773,
+        "completed": false,
+        "progress_percentage": 51
+    },
+    {
+        "user_id": 255,
+        "lesson_id": 376,
+        "completed": false,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 2290,
+        "lesson_id": 875,
+        "completed": false,
+        "progress_percentage": 84
+    },
+    {
+        "user_id": 547,
+        "lesson_id": 629,
+        "completed": true,
+        "progress_percentage": 37
+    },
+    {
+        "user_id": 30,
+        "lesson_id": 587,
+        "completed": true,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 2917,
+        "lesson_id": 261,
+        "completed": true,
+        "progress_percentage": 37
+    },
+    {
+        "user_id": 2417,
+        "lesson_id": 626,
+        "completed": true,
+        "progress_percentage": 52
+    },
+    {
+        "user_id": 2304,
+        "lesson_id": 394,
+        "completed": false,
+        "progress_percentage": 12
+    },
+    {
+        "user_id": 1372,
+        "lesson_id": 52,
+        "completed": true,
+        "progress_percentage": 46
+    },
+    {
+        "user_id": 961,
+        "lesson_id": 158,
+        "completed": false,
+        "progress_percentage": 67
+    },
+    {
+        "user_id": 2936,
+        "lesson_id": 471,
+        "completed": false,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 667,
+        "lesson_id": 165,
+        "completed": true,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 1325,
+        "lesson_id": 826,
+        "completed": false,
+        "progress_percentage": 38
+    },
+    {
+        "user_id": 1563,
+        "lesson_id": 700,
+        "completed": true,
+        "progress_percentage": 64
+    },
+    {
+        "user_id": 30,
+        "lesson_id": 748,
+        "completed": true,
+        "progress_percentage": 37
+    },
+    {
+        "user_id": 2599,
+        "lesson_id": 78,
+        "completed": true,
+        "progress_percentage": 57
+    },
+    {
+        "user_id": 2371,
+        "lesson_id": 419,
+        "completed": false,
+        "progress_percentage": 37
+    },
+    {
+        "user_id": 2408,
+        "lesson_id": 401,
+        "completed": false,
+        "progress_percentage": 62
+    },
+    {
+        "user_id": 323,
+        "lesson_id": 290,
+        "completed": false,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 1586,
+        "lesson_id": 839,
+        "completed": false,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 2089,
+        "lesson_id": 145,
+        "completed": false,
+        "progress_percentage": 78
+    },
+    {
+        "user_id": 1030,
+        "lesson_id": 838,
+        "completed": true,
+        "progress_percentage": 0
+    },
+    {
+        "user_id": 1550,
+        "lesson_id": 335,
+        "completed": false,
+        "progress_percentage": 68
+    },
+    {
+        "user_id": 773,
+        "lesson_id": 369,
+        "completed": false,
+        "progress_percentage": 77
+    },
+    {
+        "user_id": 243,
+        "lesson_id": 718,
+        "completed": false,
+        "progress_percentage": 47
+    },
+    {
+        "user_id": 2765,
+        "lesson_id": 837,
+        "completed": false,
+        "progress_percentage": 43
+    },
+    {
+        "user_id": 1914,
+        "lesson_id": 689,
+        "completed": false,
+        "progress_percentage": 18
+    },
+    {
+        "user_id": 31,
+        "lesson_id": 650,
+        "completed": true,
+        "progress_percentage": 91
+    },
+    {
+        "user_id": 1877,
+        "lesson_id": 231,
+        "completed": true,
+        "progress_percentage": 56
+    },
+    {
+        "user_id": 49,
+        "lesson_id": 746,
+        "completed": false,
+        "progress_percentage": 24
+    },
+    {
+        "user_id": 119,
+        "lesson_id": 932,
+        "completed": true,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 2654,
+        "lesson_id": 934,
+        "completed": true,
+        "progress_percentage": 53
+    },
+    {
+        "user_id": 1773,
+        "lesson_id": 455,
+        "completed": false,
+        "progress_percentage": 34
+    },
+    {
+        "user_id": 1322,
+        "lesson_id": 707,
+        "completed": true,
+        "progress_percentage": 6
+    },
+    {
+        "user_id": 2282,
+        "lesson_id": 391,
+        "completed": true,
+        "progress_percentage": 96
+    },
+    {
+        "user_id": 864,
+        "lesson_id": 448,
+        "completed": true,
+        "progress_percentage": 49
+    },
+    {
+        "user_id": 229,
+        "lesson_id": 199,
+        "completed": false,
+        "progress_percentage": 20
+    },
+    {
+        "user_id": 1484,
+        "lesson_id": 977,
+        "completed": true,
+        "progress_percentage": 10
+    },
+    {
+        "user_id": 2156,
+        "lesson_id": 498,
+        "completed": false,
+        "progress_percentage": 81
+    },
+    {
+        "user_id": 2587,
+        "lesson_id": 547,
+        "completed": false,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 1513,
+        "lesson_id": 27,
+        "completed": false,
+        "progress_percentage": 28
+    },
+    {
+        "user_id": 2125,
+        "lesson_id": 850,
+        "completed": true,
+        "progress_percentage": 13
+    },
+    {
+        "user_id": 16,
+        "lesson_id": 265,
+        "completed": true,
+        "progress_percentage": 40
+    },
+    {
+        "user_id": 102,
+        "lesson_id": 992,
+        "completed": false,
+        "progress_percentage": 17
+    },
+    {
+        "user_id": 2483,
+        "lesson_id": 933,
+        "completed": true,
+        "progress_percentage": 92
+    },
+    {
+        "user_id": 212,
+        "lesson_id": 674,
+        "completed": true,
+        "progress_percentage": 100
+    },
+    {
+        "user_id": 694,
+        "lesson_id": 605,
+        "completed": true,
+        "progress_percentage": 70
+    },
+    {
+        "user_id": 1408,
+        "lesson_id": 4,
+        "completed": true,
+        "progress_percentage": 94
+    },
+    {
+        "user_id": 82,
+        "lesson_id": 787,
+        "completed": true,
+        "progress_percentage": 85
+    },
+    {
+        "user_id": 1330,
+        "lesson_id": 129,
+        "completed": true,
+        "progress_percentage": 60
+    },
+    {
+        "user_id": 2949,
+        "lesson_id": 88,
+        "completed": true,
+        "progress_percentage": 42
+    },
+    {
+        "user_id": 2525,
+        "lesson_id": 73,
+        "completed": true,
+        "progress_percentage": 93
+    },
+    {
+        "user_id": 115,
+        "lesson_id": 53,
+        "completed": false,
+        "progress_percentage": 55
+    },
+    {
+        "user_id": 764,
+        "lesson_id": 995,
+        "completed": false,
+        "progress_percentage": 22
+    },
+    {
+        "user_id": 671,
+        "lesson_id": 728,
+        "completed": false,
+        "progress_percentage": 5
+    },
+    {
+        "user_id": 555,
+        "lesson_id": 827,
+        "completed": false,
+        "progress_percentage": 56
+    },
+    {
+        "user_id": 2142,
+        "lesson_id": 98,
+        "completed": false,
+        "progress_percentage": 74
+    },
+    {
+        "user_id": 334,
+        "lesson_id": 274,
+        "completed": false,
+        "progress_percentage": 30
+    },
+    {
+        "user_id": 1302,
+        "lesson_id": 850,
+        "completed": true,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 1988,
+        "lesson_id": 497,
+        "completed": false,
+        "progress_percentage": 72
+    },
+    {
+        "user_id": 916,
+        "lesson_id": 227,
+        "completed": true,
+        "progress_percentage": 41
+    },
+    {
+        "user_id": 2997,
+        "lesson_id": 126,
+        "completed": true,
+        "progress_percentage": 59
+    },
+    {
+        "user_id": 613,
+        "lesson_id": 922,
+        "completed": false,
+        "progress_percentage": 94
+    },
+    {
+        "user_id": 1244,
+        "lesson_id": 69,
+        "completed": false,
+        "progress_percentage": 43
+    }
+]

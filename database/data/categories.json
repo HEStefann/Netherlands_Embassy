@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Science"
+    },
+    {
+        "id": 2,
+        "name": "Mathematics"
+    },
+    {
+        "id": 3,
+        "name": "Literature"
+    },
+    {
+        "id": 4,
+        "name": "Technology"
+    },
+    {
+        "id": 5,
+        "name": "Business"
+    },
+    {
+        "id": 6,
+        "name": "History"
+    },
+    {
+        "id": 7,
+        "name": "Art"
+    },
+    {
+        "id": 8,
+        "name": "Health"
+    }
+]
