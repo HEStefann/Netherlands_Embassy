@@ -2,11 +2,12 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Seeder;
-use App\Models\User;
-use Illuminate\Support\Facades\File;
-use Illuminate\Support\Facades\Log;
 use Carbon\Carbon;
+use App\Models\User;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Hash;
 
 class UserSeeder extends Seeder
 {
@@ -36,7 +37,7 @@ class UserSeeder extends Seeder
                     'id' => $userData['id'],
                     'name' => $userData['name'],
                     'email' => $userData['email'],
-                    'password' => $userData['password'], // Remove bcrypt for now
+                    'password' => Hash::make($userData['password']), // Remove bcrypt for now
                     'role_id' => $userData['role_id'],
                     'profile_picture' => $userData['profile_picture'],
                     'created_at' => Carbon::now(), // Temporary fix
