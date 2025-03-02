@@ -20,3 +20,4 @@ class ProfessorsData extends Model
         return $this->belongsTo(User::class);
     }
 }
+

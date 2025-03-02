@@ -14,7 +14,11 @@ class User extends Authenticatable
     protected $fillable = [
         'id', 'name', 'email', 'password', 'profile_picture', 'role_id', 'created_at', 'updated_at'
     ];
-
+    public function getPointsAttribute()
+    {
+        return floor($this->progress()->count() * 11);
+    }
+    
     public function role()
     {
         return $this->belongsTo(Role::class);

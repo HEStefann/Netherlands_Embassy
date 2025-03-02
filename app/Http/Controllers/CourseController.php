@@ -3,6 +3,9 @@
 namespace App\Http\Controllers;
 
 use App\Models\Course;
+use App\Models\Module;
+use App\Models\Instructor;
+use App\Models\Review;
 use Illuminate\Http\Request;
 
 class CourseController extends Controller
@@ -19,9 +22,23 @@ class CourseController extends Controller
     }
 
     public function show($id)
-    {
-        return Course::findOrFail($id);
-    }
+{
+    $course = Course::with([
+        'modules', 
+        'professors',  // Eager load professors and their data
+        'reviews'
+    ])->findOrFail($id);
+
+    return response()->json([
+        'course' => $course,
+        'modules' => $course->modules,
+        'professors' => $course->professors,  // This will include professors and their data
+        'reviews' => $course->reviews
+    ]);
+}
+
+
+    
 
     public function update(Request $request, $id)
     {

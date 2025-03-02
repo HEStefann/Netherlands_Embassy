@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
@@ -18,7 +17,9 @@ class Course extends Model
 
     public function professors()
     {
-        return $this->belongsToMany(User::class, 'course_professor', 'course_id', 'professor_id');
+        // Correct the eager load to professorsData instead of professorsData via the pivot table
+        return $this->belongsToMany(User::class, 'course_professor', 'course_id', 'professor_id')
+                    ->with('professorData'); // Make sure we're eager loading the professor's data
     }
 
     public function modules()

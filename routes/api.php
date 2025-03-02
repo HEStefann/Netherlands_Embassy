@@ -20,12 +20,36 @@ use App\Http\Controllers\WishlistController;
 use App\Http\Controllers\UserResponseController;
 use App\Http\Controllers\InterestController;
 use App\Http\Controllers\PreviewController;
+use App\Http\Controllers\LearningModeController;
+use App\Http\Controllers\CoursesPageController;
+use App\Http\Controllers\UserDashboardController;
 use App\Http\Controllers\Auth\AuthenticatedSessionController;
 
 Route::middleware(['auth:sanctum'])->get('/user', function (Request $request) {
     return $request->user();
 });
 
+// Most viewed courses
+Route::get('/courses/most-viewed', [CoursesPageController::class, 'getMostViewed']);
+
+// // In Focus courses (user's wishlist)
+Route::get('/courses/in-focus', [CoursesPageController::class, 'getInFocus'])->middleware('auth:sanctum');
+
+// // New courses
+Route::get('/courses/new', [CoursesPageController::class, 'getNewCourses']);
+
+// // Instructor statistics
+Route::get('/courses/instructor-stats', [CoursesPageController::class, 'getInstructorStats']);
+
+// // Course search
+Route::get('/courses/search', [CoursesPageController::class, 'searchCourses']);
+
+Route::get('/user/{id}/achievements', [UserDashboardController::class, 'userAchievements']);
+Route::get('/leaderboard', [UserDashboardController::class, 'leaderboard']);
+Route::get('/user/{id}/recommended-courses', [UserDashboardController::class, 'recommendedCourses']);
+Route::get('/user/{id}/continue-learning', [UserDashboardController::class, 'continueLearning']);
+
+Route::get('/learning-mode/{course_id}', [LearningModeController::class, 'show']);
 Route::get('/course/{course_id}/preview', [PreviewController::class, 'preview']);
 Route::get('user/{userId}/course/{courseId}/preview', [PreviewController::class, 'previewCourseWithProgress']);
 Route::apiResource('getusers', UserController::class);
