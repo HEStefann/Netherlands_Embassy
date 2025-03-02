@@ -19,12 +19,15 @@ use App\Http\Controllers\NewsletterSubscriptionController;
 use App\Http\Controllers\WishlistController;
 use App\Http\Controllers\UserResponseController;
 use App\Http\Controllers\InterestController;
+use App\Http\Controllers\PreviewController;
 use App\Http\Controllers\Auth\AuthenticatedSessionController;
 
 Route::middleware(['auth:sanctum'])->get('/user', function (Request $request) {
     return $request->user();
 });
 
+Route::get('/course/{course_id}/preview', [PreviewController::class, 'preview']);
+Route::get('user/{userId}/course/{courseId}/preview', [PreviewController::class, 'previewCourseWithProgress']);
 Route::apiResource('getusers', UserController::class);
 Route::apiResource('getroles', RoleController::class);
 Route::apiResource('getstudent-interests', StudentInterestController::class);

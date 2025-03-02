@@ -4,7 +4,6 @@ namespace App\Http\Controllers\Web;
 use App\Models\Course;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-
 class CourseController extends Controller
 {
     public function index()

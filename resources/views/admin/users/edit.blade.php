@@ -1,4 +1,4 @@
-@extends('layouts.admin')
+@extends('layouts.app')
 
 @section('content')
     <div class="container">
@@ -30,6 +30,7 @@
             </div>
         
             <button type="submit" class="btn btn-primary">Update User</button>
+            <a href="{{ route('admin.users.index') }}" class="btn btn-secondary">Cancel</a>
         </form>
         
     </div>
